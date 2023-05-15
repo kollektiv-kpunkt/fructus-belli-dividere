@@ -5,4 +5,5 @@
     @endforeach
 </div>
 <x-letter/>
-
+<x-social-share />
+<x-supporters />

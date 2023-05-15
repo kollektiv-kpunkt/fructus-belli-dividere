@@ -27,5 +27,32 @@ return [
     ],
     "letter" => [
         "title" => "Unser Brief an die Mitglieder des Nationalrats",
+        "show_sources" => "Quellen anzeigen",
+        "sources" => [
+            "https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/intransparenz-und-inkonsequenz-russlands-krieg-enttarnt-das-geschaeftsmodell-schweiz",
+            "https://www.publiceye.ch/de/themen/agrarrohstoffhandel/krieg-und-krisen-und-die-rohstoffhaendler-machen-rekordgewinne",
+            "https://www.glencore.com/.rest/api/v1/documents/7ce9527cb786528b7016cd495780a4af/GLEN-2022-Preliminary-Results.pdf",
+            "https://www.ft.com/content/efdabd7f-949e-4016-a099-c13c99960ed0",
+            "https://www.bloomberg.com/opinion/articles/2022-10-07/commodities-look-at-all-the-money-cargill-made#xj4y7vzkg",
+            "https://www.swissinfo.ch/ger/wirtschaft/wo-die-schweiz-der-ukraine-hilft---und-wo-nicht/48305820",
+            "https://taz.de/Konferenz-zur-Ukraine-Hilfe/!5890061/"
+        ]
+    ],
+    "share" => [
+        "title" => "Teile unseren offenen Brief!",
+        "sharetitle" => "Kriegsgewinne besteuern!",
+        "text" => <<<EOD
+        Hoi 🙋\nIch habe gerade einen Brief an die Mitglieder des Nationalrats unterschrieben, in dem wir fordern, dass die Schweiz eine Kriegsgewinnsteuer einführt. Hilf mit, unserem Anliegen Gehör zu verschaffen und unterzeichne den Brief auch!\nMessi!
+        EOD,
+        "buttons" => [
+            "whatsapp" => "Auf WhatsApp teilen",
+            "telegram" => "Auf Telegram teilen",
+            "facebook" => "Auf Facebook teilen",
+            "twitter" => "Auf Twitter teilen",
+            "email" => "Per E-Mail teilen"
+        ]
+    ],
+    "supporters" => [
+        "title" => "Unsere Unterstützer*innen"
     ]
 ];

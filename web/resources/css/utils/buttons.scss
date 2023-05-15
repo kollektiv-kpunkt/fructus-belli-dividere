@@ -1,0 +1,9 @@
+.fbd-button {
+    --bg-color: theme("colors.accent.DEFAULT");
+    --text-color: theme("colors.white");
+
+    background-color: var(--bg-color);
+    color: var(--text-color);
+
+    @apply px-4 py-2 text-sm font-bold text-center;
+}

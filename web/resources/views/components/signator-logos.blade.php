@@ -1,6 +1,5 @@
 <?php
-$directory = public_path('images/orgas/' . app()->getLocale());
-$logos = glob($directory . "/*");
+$logos = glob(public_path('images/orgas/' . app()->getLocale()) . "/*");
 shuffle($logos);
 ?>
 <div class="fbd-signator-logos grid grid-cols-2 md:grid-cols-3 gap-6 md:gap-8 mt-8 md:mt-12">

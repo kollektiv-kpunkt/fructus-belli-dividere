@@ -1,0 +1,36 @@
+.fbd-social-share {
+
+    &__button {
+
+        &::after {
+            content: var(--share-icon);
+            font-family: "IcoFont";
+            display: inline-block;
+            margin-left: 0.25em;
+        }
+
+        &[data-share-type="whatsapp"] {
+            --share-icon: "\e957";
+            --bg-color: #25D366;
+        }
+
+        &[data-share-type="telegram"] {
+            --share-icon: "\ed75";
+            --bg-color: #0088cc;
+        }
+
+        &[data-share-type="facebook"] {
+            --share-icon: "\ed37";
+            --bg-color: #3b5998;
+        }
+
+        &[data-share-type="twitter"] {
+            --share-icon: "\ed7a";
+            --bg-color: #1da1f2;
+        }
+
+        &[data-share-type="email"] {
+            --share-icon: "\efdf";
+        }
+    }
+}
