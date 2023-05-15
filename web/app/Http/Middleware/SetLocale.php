@@ -21,22 +21,16 @@ class SetLocale
             "kriegsgewinne.ch" => "de",
             "profitsdeguerre.ch" => "fr",
             "pn81.victorinus.ch" => "de",
-            "fr.pn81.victorinus.ch" => "fr"
+            "fr.pn81.victorinus.ch" => "fr",
+            "pn81.ddev.site" => "de",
+            "fr.pn81.ddev.site" => "fr",
         ];
-
-        if (session()->has("locale")) {
-            app()->setLocale(session()->get("locale"));
+        if (array_key_exists($request->getHost(), $domains)) {
+            app()->setLocale($domains[$request->getHost()]);
         } else {
-            if (in_array($request->getPreferredLanguage(), $available_locales)) {
-                app()->setLocale($request->getPreferredLanguage());
-            } else if (in_array($request->getHost(), $domains)) {
-                app()->setLocale($domains[$request->getHost()]);
-            } else {
-                app()->setLocale("de");
-            }
-
-            session()->put("locale", app()->getLocale());
+            app()->setLocale("de");
         }
+        session()->put("locale", app()->getLocale());
         return $next($request);
     }
 }
