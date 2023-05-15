@@ -18,8 +18,10 @@ class SetLocale
     {
         $available_locales = ["de", "fr"];
         $domains = [
-            "de" => "kriegsgewinne.ch",
-            "fr" => "profitsdeguerre.ch"
+            "kriegsgewinne.ch" => "de",
+            "profitsdeguerre.ch" => "fr",
+            "pn81.victorinus.ch" => "de",
+            "fr.pn81.victorinus.ch" => "fr"
         ];
 
         if (session()->has("locale")) {
@@ -28,7 +30,7 @@ class SetLocale
             if (in_array($request->getPreferredLanguage(), $available_locales)) {
                 app()->setLocale($request->getPreferredLanguage());
             } else if (in_array($request->getHost(), $domains)) {
-                app()->setLocale(array_search($request->getHost(), $domains));
+                app()->setLocale($domains[$request->getHost()]);
             } else {
                 app()->setLocale("de");
             }
