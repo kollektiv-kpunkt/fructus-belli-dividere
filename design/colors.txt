@@ -1,0 +1,197 @@
+ID:  accent-150
+VAR: --accent-150
+HEX: #0E0044
+RGB: rgb(14, 0, 68)
+ID:  accent-140
+VAR: --accent-140
+HEX: #100052
+RGB: rgb(16, 0, 82)
+ID:  accent-130
+VAR: --accent-130
+HEX: #13005F
+RGB: rgb(19, 0, 95)
+ID:  accent-120
+VAR: --accent-120
+HEX: #16006D
+RGB: rgb(22, 0, 109)
+ID:  accent-110
+VAR: --accent-110
+HEX: #18007A
+RGB: rgb(24, 0, 122)
+ID:  accent-DEFAULT
+VAR: --accent-DEFAULT
+HEX: #1B0088
+RGB: rgb(27, 0, 136)
+ID:  accent-90
+VAR: --accent-90
+HEX: #321A94
+RGB: rgb(50, 26, 148)
+ID:  accent-80
+VAR: --accent-80
+HEX: #4933A0
+RGB: rgb(73, 51, 160)
+ID:  accent-70
+VAR: --accent-70
+HEX: #5F4DAC
+RGB: rgb(95, 77, 172)
+ID:  accent-60
+VAR: --accent-60
+HEX: #7666B8
+RGB: rgb(118, 102, 184)
+ID:  accent-50
+VAR: --accent-50
+HEX: #8D80C3
+RGB: rgb(141, 128, 195)
+ID:  accent-40
+VAR: --accent-40
+HEX: #A499CF
+RGB: rgb(164, 153, 207)
+ID:  accent-30
+VAR: --accent-30
+HEX: #BBB2DB
+RGB: rgb(187, 178, 219)
+ID:  accent-20
+VAR: --accent-20
+HEX: #D1CCE7
+RGB: rgb(209, 204, 231)
+ID:  accent-10
+VAR: --accent-10
+HEX: #E8E5F3
+RGB: rgb(232, 229, 243)
+ID:  accent-slight
+VAR: --accent-slight
+HEX: #F4F2F9
+RGB: rgb(244, 242, 249)
+
+
+ID:  secondary-150
+VAR: --secondary-150
+HEX: #80685E
+RGB: rgb(128, 104, 94)
+ID:  secondary-140
+VAR: --secondary-140
+HEX: #997C70
+RGB: rgb(153, 124, 112)
+ID:  secondary-130
+VAR: --secondary-130
+HEX: #B29183
+RGB: rgb(178, 145, 131)
+ID:  secondary-120
+VAR: --secondary-120
+HEX: #CCA696
+RGB: rgb(204, 166, 150)
+ID:  secondary-110
+VAR: --secondary-110
+HEX: #E5BAA8
+RGB: rgb(229, 186, 168)
+ID:  secondary-DEFAULT
+VAR: --secondary-DEFAULT
+HEX: #FFCFBB
+RGB: rgb(255, 207, 187)
+ID:  secondary-90
+VAR: --secondary-90
+HEX: #FFD4C2
+RGB: rgb(255, 212, 194)
+ID:  secondary-80
+VAR: --secondary-80
+HEX: #FFD9C9
+RGB: rgb(255, 217, 201)
+ID:  secondary-70
+VAR: --secondary-70
+HEX: #FFDDCF
+RGB: rgb(255, 221, 207)
+ID:  secondary-60
+VAR: --secondary-60
+HEX: #FFE2D6
+RGB: rgb(255, 226, 214)
+ID:  secondary-50
+VAR: --secondary-50
+HEX: #FFE7DD
+RGB: rgb(255, 231, 221)
+ID:  secondary-40
+VAR: --secondary-40
+HEX: #FFECE4
+RGB: rgb(255, 236, 228)
+ID:  secondary-30
+VAR: --secondary-30
+HEX: #FFF1EB
+RGB: rgb(255, 241, 235)
+ID:  secondary-20
+VAR: --secondary-20
+HEX: #FFF5F1
+RGB: rgb(255, 245, 241)
+ID:  secondary-10
+VAR: --secondary-10
+HEX: #FFFAF8
+RGB: rgb(255, 250, 248)
+ID:  secondary-slight
+VAR: --secondary-slight
+HEX: #FFFDFC
+RGB: rgb(255, 253, 252)
+
+
+
+ID:  foreground-150
+VAR: --foreground-150
+HEX: #171C24
+RGB: rgb(23, 28, 36)
+ID:  foreground-140
+VAR: --foreground-140
+HEX: #1B212B
+RGB: rgb(27, 33, 43)
+ID:  foreground-130
+VAR: --foreground-130
+HEX: #202732
+RGB: rgb(32, 39, 50)
+ID:  foreground-120
+VAR: --foreground-120
+HEX: #242C3A
+RGB: rgb(36, 44, 58)
+ID:  foreground-110
+VAR: --foreground-110
+HEX: #293241
+RGB: rgb(41, 50, 65)
+ID:  foreground-DEFAULT
+VAR: --foreground-DEFAULT
+HEX: #2D3748
+RGB: rgb(45, 55, 72)
+ID:  foreground-90
+VAR: --foreground-90
+HEX: #424B5A
+RGB: rgb(66, 75, 90)
+ID:  foreground-80
+VAR: --foreground-80
+HEX: #575F6D
+RGB: rgb(87, 95, 109)
+ID:  foreground-70
+VAR: --foreground-70
+HEX: #6C737F
+RGB: rgb(108, 115, 127)
+ID:  foreground-60
+VAR: --foreground-60
+HEX: #818791
+RGB: rgb(129, 135, 145)
+ID:  foreground-50
+VAR: --foreground-50
+HEX: #969BA3
+RGB: rgb(150, 155, 163)
+ID:  foreground-40
+VAR: --foreground-40
+HEX: #ABAFB6
+RGB: rgb(171, 175, 182)
+ID:  foreground-30
+VAR: --foreground-30
+HEX: #C0C3C8
+RGB: rgb(192, 195, 200)
+ID:  foreground-20
+VAR: --foreground-20
+HEX: #D5D7DA
+RGB: rgb(213, 215, 218)
+ID:  foreground-10
+VAR: --foreground-10
+HEX: #EAEBED
+RGB: rgb(234, 235, 237)
+ID:  foreground-slight
+VAR: --foreground-slight
+HEX: #F4F5F6
+RGB: rgb(244, 245, 246)

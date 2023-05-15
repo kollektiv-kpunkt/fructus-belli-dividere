@@ -1,0 +1,21 @@
+.fbd-letter-divider {
+    div {
+        border-bottom: 2px solid theme('colors.accent.DEFAULT');
+        width: 100%;
+    }
+}
+
+.fbd-letter {
+    font-family: "Garamond", serif;
+
+    ul {
+        list-style: disc;
+        margin-left: 1.5rem;
+        margin-top: 1em;
+        margin-bottom: 1em;
+
+        li+li {
+            margin-top: 0.5em;
+        }
+    }
+}

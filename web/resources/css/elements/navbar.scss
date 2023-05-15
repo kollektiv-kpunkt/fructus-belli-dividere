@@ -1,0 +1,20 @@
+html {
+    --navheight: 5rem;
+
+    @media (max-width: 767px) {
+        --navheight: 3.5rem;
+    }
+
+    .fbd-menu-button {
+        --height: 0.2rem;
+        display: flex;
+        flex-direction: column;
+        row-gap: calc(var(--height) * 0.66);
+
+        &__line {
+            width: 2rem;
+            height: var(--height);
+            background-color: theme("colors.accent.DEFAULT");
+        }
+    }
+}
