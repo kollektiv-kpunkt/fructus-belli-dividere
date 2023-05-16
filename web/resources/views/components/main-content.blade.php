@@ -8,3 +8,4 @@
 <x-social-share />
 <x-supporters />
 <x-faq />
+<x-examples />

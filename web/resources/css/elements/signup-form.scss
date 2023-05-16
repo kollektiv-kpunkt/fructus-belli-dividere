@@ -1,0 +1,35 @@
+@media (max-width: 1023px) {
+    .fbd-signup-form {
+        position: fixed;
+        left: 0;
+        top: unset;
+        bottom: 0;
+        z-index: 10;
+        transform: translateY(100%);
+
+        @apply px-2 sm:px-4 md:px-8;
+
+        &__open-form {
+            position: fixed;
+            bottom: 1rem;
+            right: 1rem;
+            z-index: 10;
+            @apply bg-accent rounded-full p-3 text-white flex items-center;
+
+            &__nudge {
+                transform: translate(0.25rem, -50%);
+                @apply text-2xs bg-white text-accent flex leading-none p-1 rounded-full absolute top-0 right-0;
+            }
+
+            &__text {
+
+            }
+        }
+
+        &__blind {
+            opacity: 0;
+            visibility: hidden;
+            @apply fixed top-0 left-0 backdrop-blur-sm w-full h-full bg-accent-150 bg-opacity-50;
+        }
+    }
+}

@@ -17,7 +17,7 @@
         "10": "#E8E5F3",
         "slight": "#F4F2F9"
     },
-    "secondary": {
+    "secondary2": {
         "150": "#80685E",
         "140": "#997C70",
         "130": "#B29183",
@@ -34,6 +34,24 @@
         "20": "#FFF5F1",
         "10": "#FFFAF8",
         "slight": "#FFFDFC"
+    },
+    "secondary": {
+        "150": "#7D6F80",
+        "140": "#968599",
+        "130": "#AF9BB2",
+        "120": "#C8B2CC",
+        "110": "#E1C8E5",
+        "DEFAULT": "#FADEFF",
+        "90": "#FAE1FF",
+        "80": "#FBE5FF",
+        "70": "#FCE8FF",
+        "60": "#FCEBFF",
+        "50": "#FDEFFF",
+        "40": "#FDF2FF",
+        "30": "#FDF5FF",
+        "20": "#FEF8FF",
+        "10": "#FEFCFF",
+        "slight": "#FFFDFF"
     },
     "foreground": {
         "150": "#171C24",

@@ -1,0 +1,8 @@
+.fbd-examples {
+
+    &__more-content {
+        figcaption {
+            @apply text-2xs opacity-70 italic text-end mt-4;
+        }
+    }
+}

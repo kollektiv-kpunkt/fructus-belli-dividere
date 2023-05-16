@@ -195,3 +195,70 @@ ID:  foreground-slight
 VAR: --foreground-slight
 HEX: #F4F5F6
 RGB: rgb(244, 245, 246)
+
+
+
+ID:  secondary-150
+VAR: --secondary-150
+HEX: #7D6F80
+RGB: rgb(125, 111, 128)
+ID:  secondary-140
+VAR: --secondary-140
+HEX: #968599
+RGB: rgb(150, 133, 153)
+ID:  secondary-130
+VAR: --secondary-130
+HEX: #AF9BB2
+RGB: rgb(175, 155, 178)
+ID:  secondary-120
+VAR: --secondary-120
+HEX: #C8B2CC
+RGB: rgb(200, 178, 204)
+ID:  secondary-110
+VAR: --secondary-110
+HEX: #E1C8E5
+RGB: rgb(225, 200, 229)
+ID:  secondary-DEFAULT
+VAR: --secondary-DEFAULT
+HEX: #FADEFF
+RGB: rgb(250, 222, 255)
+ID:  secondary-90
+VAR: --secondary-90
+HEX: #FAE1FF
+RGB: rgb(250, 225, 255)
+ID:  secondary-80
+VAR: --secondary-80
+HEX: #FBE5FF
+RGB: rgb(251, 229, 255)
+ID:  secondary-70
+VAR: --secondary-70
+HEX: #FCE8FF
+RGB: rgb(252, 232, 255)
+ID:  secondary-60
+VAR: --secondary-60
+HEX: #FCEBFF
+RGB: rgb(252, 235, 255)
+ID:  secondary-50
+VAR: --secondary-50
+HEX: #FDEFFF
+RGB: rgb(253, 239, 255)
+ID:  secondary-40
+VAR: --secondary-40
+HEX: #FDF2FF
+RGB: rgb(253, 242, 255)
+ID:  secondary-30
+VAR: --secondary-30
+HEX: #FDF5FF
+RGB: rgb(253, 245, 255)
+ID:  secondary-20
+VAR: --secondary-20
+HEX: #FEF8FF
+RGB: rgb(254, 248, 255)
+ID:  secondary-10
+VAR: --secondary-10
+HEX: #FEFCFF
+RGB: rgb(254, 252, 255)
+ID:  secondary-slight
+VAR: --secondary-slight
+HEX: #FFFDFF
+RGB: rgb(255, 253, 255) 

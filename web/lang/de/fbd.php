@@ -121,6 +121,22 @@ return [
             ]
         ]
     ],
+    "examples" => [
+        "title" => "Beispiele aus der Wirtschaft",
+        "examples" => [
+            "commodities" => [
+                "title" => "<b>Schweizer Rohstoffhändler</b> auch 2022 mit Rekordgewinnen",
+                "cardimg" => "/images/examples/commodities.jpg",
+                "content" => "/markdown/rohstoffhandel.md"
+            ],
+            "commodities2" => [
+                "title" => "Schweizer Rohstoffhändler auch 2022 mit Rekordgewinnen",
+                "cardimg" => "/images/examples/commodities.jpg",
+                "content" => "/markdown/rohstoffhandel.md"
+            ],
+        ],
+        "readmore" => "Weiterlesen"
+    ],
     "form" => [
         "title" => "Hilf mit, damit wir unser Ziel erreichen!",
         "defaultPrivacy" => "Ich bin einverstanden, dass mich das Komitee auf dem Laufenden hält. <a class=\"underline\" href=\"/privacy\">Mehr dazu in unseren Datenschutzbestimmungen</a>.",
@@ -167,6 +183,7 @@ return [
                 "class" => "fullwidth"
             ]
         ],
+        "open" => "Jetzt unterschreiben!",
         "submit" => "Unterschreiben"
     ]
 ];
