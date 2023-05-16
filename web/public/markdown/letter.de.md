@@ -1,4 +1,4 @@
-<span class="text-xl font-bold">Sehr geehrte Nationaltärinnen, sehr geehrte Nationalräte</span>
+<span class="text-xl font-bold">Sehr geehrte Nationaltärinnen, sehr geehrte Nationalräte</span><br>
 <span class="text-xl font-bold">Sehr geehrte Ständerätinnen, sehr geehrte Ständeräte</span>
 
 Seit über einem Jahr herrscht in Europa Krieg. Putin und sein Regime bringen unvorstellbares Leid über die Ukraine. In solchen krisengetriebenen Zeiten sprechen wir oft von Solidarität, viel zu wenig aber über Verantwortung. Während die Energie- und Nahrungsmittelpreise steigen, profitieren eine Handvoll Konzerne von diesen Krisenzeiten.

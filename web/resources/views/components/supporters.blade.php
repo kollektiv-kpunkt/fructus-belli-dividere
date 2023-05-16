@@ -11,4 +11,34 @@
         </div>
         @endforeach
     </div>
+    <p class="mt-6 md:mt-8">{!! __("fbd.supporters.lead") !!}</p>
+    <div class="fbd-supporters__peoplewrapper relative">
+        <div class="fbd-supporters__peoplelist mt-2 text-2xs">
+            @foreach (supporters(50) as $supporter)
+                <?php
+                $render = "";
+                $render .= "<b>";
+                $render .= $supporter->data["fname"];
+                if (isset($supporter->data["lname"]) && $supporter->data["lname"] !== "") {
+                    $render .= " " . $supporter->data["lname"];
+                }
+                $render .= "</b>";
+                if (isset($supporter->data["zip"]) && $supporter->data["zip"] !== "") {
+                    $render .= ", " . $supporter->data["zip"];
+                }
+                if (isset($supporter->data["city"]) && $supporter->data["city"] !== "") {
+                    $render .= " " . $supporter->data["city"];
+                }
+                if (isset($supporter->data["jobtitle"]) && $supporter->data["jobtitle"] !== "") {
+                    $render .= ", " . $supporter->data["jobtitle"];
+                }
+                if (!$loop->last) {
+                    $render .= "; ";
+                }
+                ?>
+                {!! $render !!}
+            @endforeach
+        </div>
+        <button class="absolute z-10 bottom-0 underline fbd-supporters__showall">{{supporters()->count() - 50}} {{__("fbd.supporters.showall")}}</button>
+    </div>
 </div>

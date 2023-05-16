@@ -2,6 +2,8 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Models\Supporter;
+use Illuminate\Support\Facades\DB;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,4 +18,14 @@ use Illuminate\Support\Facades\Route;
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
+});
+
+Route::prefix("supporters")->group(function() {
+    Route::get("/", function() {
+        $supporters = Supporter::getActiveSupporters(Supporter::select("data")->where("public", true)->orderBy("created_at", "ASC"));
+        return response()->json([
+            "count" => $supporters->count(),
+            "supporters" => $supporters,
+        ]);
+    });
 });
