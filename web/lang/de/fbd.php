@@ -120,5 +120,53 @@ return [
                 "text" => "FR"
             ]
         ]
+    ],
+    "form" => [
+        "title" => "Hilf mit, damit wir unser Ziel erreichen!",
+        "defaultPrivacy" => "Ich bin einverstanden, dass mich das Komitee auf dem Laufenden hält. <a class=\"underline\" href=\"/privacy\">Mehr dazu in unseren Datenschutzbestimmungen</a>.",
+        "fields" => [
+            [
+                "type" => "text",
+                "name" => "data[fname]",
+                "label" => "Vorname",
+                "required" => true
+            ],
+            [
+                "type" => "text",
+                "name" => "data[lname]",
+                "label" => "Nachname",
+                "required" => true
+            ],
+            [
+                "type" => "email",
+                "name" => "email",
+                "label" => "E-Mail Adresse",
+                "required" => true,
+                "class" => "fullwidth"
+            ],
+            [
+                "type" => "text",
+                "name" => "data[zip]",
+                "label" => "Postleitzahl",
+                "required" => false,
+                "placeholder" => "optional"
+            ],
+            [
+                "type" => "text",
+                "name" => "data[city]",
+                "label" => "Ort",
+                "required" => false,
+                "placeholder" => "optional"
+            ],
+            [
+                "type" => "checkbox",
+                "name" => "optin",
+                "label" => supporterPrivacyText(),
+                "required" => false,
+                "checked" => true,
+                "class" => "fullwidth"
+            ]
+        ],
+        "submit" => "Unterschreiben"
     ]
 ];

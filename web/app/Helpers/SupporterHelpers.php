@@ -22,3 +22,16 @@ function supporterCount()
 {
     return Supporter::getActiveSupporters(Supporter::query())->count();
 }
+
+/**
+ * Get privacy text if is set from Cookies else get default
+ */
+function supporterPrivacyText()
+{
+    if (!isset($_COOKIE['fbd_source'])) {
+        $privacyText = config('fbd.privacyStatements.default.' . App::getLocale());
+    } else {
+        $privacyText = config('fbd.privacyStatements.' . $_COOKIE['fbd_source'] . '.' . App::getLocale());
+    }
+    return $privacyText;
+}

@@ -14,6 +14,7 @@ class Supporter extends Model
 
     protected $fillable = [
         'email',
+        'optin',
         'data',
         'status',
         'email_verified_at',
@@ -22,6 +23,7 @@ class Supporter extends Model
 
     protected $casts = [
         'data' => 'array',
+        'optin' => 'boolean'
     ];
 
     /**

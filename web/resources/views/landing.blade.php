@@ -5,7 +5,9 @@
             <main class="col-span-12 lg:col-span-7">
                 <x-main-content />
             </main>
-            <aside class="col-span-12 lg:col-span-5"></aside>
+            <aside class="col-span-12 lg:col-span-5">
+                <x-form />
+            </aside>
         </div>
     </x-frontend-container>
 
