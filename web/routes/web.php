@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\SupporterController;
 use Illuminate\Support\Facades\Route;
 use App\Models\Supporter;
 
@@ -19,6 +20,11 @@ Route::get('/', function () {
     return view('landing');
 })->name('landing');
 
+Route::get("s/{source}", function($source) {
+    setcookie("fbd_source", $source, time() + (86400 * 30), "/");
+    return redirect("/");
+});
+
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
@@ -29,6 +35,19 @@ Route::middleware(["auth", "verified"])->prefix("admin")->group(function() {
     Route::get("/", function() {
         return view("admin.dashboard");
     })->name("dashboard");
+});
+
+Route::resource('supporters', SupporterController::class)->only([
+    'store'
+]);
+
+Route::get("/verify/{token}", function($token){
+    $verified = Supporter::verify($_GET["email"], $token);
+    if ($verified) {
+        return view("verification.verified");
+    } else {
+        return view("verification.failed");
+    }
 });
 
 require __DIR__.'/auth.php';

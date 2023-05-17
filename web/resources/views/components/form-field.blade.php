@@ -35,9 +35,14 @@ $id = $attributes->get('id') ?? "{$name}_{$fieldId}";
             @break
         @case("checkbox")
             <div class="flex">
-                <input type="{{$type}}" name="{{$name}}" id="{{$id}}" placeholder="{{$placeholder}}" {{$checked ? " checked" : ""}} class="fbd-fbd-form__field__input" {{$required ? "required" : ""}} />
+                <input type="{{$type}}" name="{{$name}}" id="{{$id}}" placeholder="{{$placeholder}}" {{$checked ? " checked" : ""}} class="fbd-fbd-form__field__input" value="1" {{$required ? "required" : ""}} />
                 <label for="{{$id}}" class="fbd-fbd-form__field__label text-2xs">{!! $label !!}</label>
             </div>
             @break
     @endswitch
+    @error($name)
+        <div class="fbd-form__field__error text-red-500">
+            {{$message}}
+        </div>
+    @enderror
 </div>

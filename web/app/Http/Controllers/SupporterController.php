@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Supporter;
 use Illuminate\Http\Request;
+use Illuminate\Support\Str;
 
 class SupporterController extends Controller
 {
@@ -35,7 +36,23 @@ class SupporterController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $validated = $request->validate([
+            'email' => 'required|email|unique:supporters,email',
+            "data" => "required|array",
+            "optin" => "",
+            "source" => "",
+            "public" => "",
+            "status" => ""
+        ]);
+        if (env("SUPP_EMAIL_VERIFICATION")) {
+            $validated["email_verification_token"] = Str::random(32);
+        }
+        $supporter = Supporter::create($validated);
+        if (env("SUPP_EMAIL_VERIFICATION")) {
+            $supporter->sendEmailVerificationNotification();
+        }
+        $request->session()->flash('success', true);
+        return redirect()->route("landing");
     }
 
     /**

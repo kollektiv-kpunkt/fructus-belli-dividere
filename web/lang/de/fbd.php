@@ -6,7 +6,8 @@
 
 return [
     "site" => [
-        "title" => "Kriegsgewinne besteuern!"
+        "title" => "Kriegsgewinne besteuern!",
+        "url" => "https://kriegsgewinne.ch",
     ],
     "heroine" => [
         "title" => "Kriegsgewinne besteuern!",
@@ -157,6 +158,14 @@ return [
             ],
             [
                 "type" => "text",
+                "name" => "data[jobtitle]",
+                "label" => "Beruf, Amt etc.",
+                "required" => false,
+                "placeholder" => "optional",
+                "class" => "fullwidth"
+            ],
+            [
+                "type" => "text",
                 "name" => "data[zip]",
                 "label" => "Postleitzahl",
                 "required" => false,
@@ -171,6 +180,14 @@ return [
             ],
             [
                 "type" => "checkbox",
+                "name" => "public",
+                "label" => "Mein Name darf auf der Website erscheinen.",
+                "required" => false,
+                "checked" => true,
+                "class" => "fullwidth"
+            ],
+            [
+                "type" => "checkbox",
                 "name" => "optin",
                 "label" => supporterPrivacyText(),
                 "required" => false,
@@ -179,6 +196,27 @@ return [
             ]
         ],
         "open" => "Jetzt unterschreiben!",
-        "submit" => "Unterschreiben"
+        "close" => "Schliessen",
+        "submit" => "Unterschreiben",
+        "successmessage" => "Vielen Dank für deine Unterschrift! Du erhältst in Kürze eine E-Mail mit einem Bestätigungslink. Bitte klicke auf diesen Link, um deine Unterschrift zu bestätigen.",
+    ],
+    "email" => [
+        "subject" => "Bitte bestätige deine E-Mail Adresse.",
+        "from" => [
+            "name" => "Komitee «Kriegsgewinne besteuern»",
+            "address" => env('MAIL_FROM_ADDRESS')
+        ]
+    ],
+    "verification" => [
+        "verified" => [
+            "title" => "Vielen Dank!",
+            "text" => "Deine E-Mail Adresse wurde erfolgreich bestätigt und dein Name wird auf der Startseite angezeigt, sofern du dies gewünscht hast.",
+            "tohome" => "Zur Startseite"
+        ],
+        "failed" => [
+            "title" => "Es ist etwas schief gelaufen :(",
+            "text" => "Deine E-Mail Adresse konnte nicht bestätigt werden. Bitte versuche es später noch einmal oder kontaktiere uns!",
+            "tohome" => "Zur Startseite"
+        ]
     ]
 ];

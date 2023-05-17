@@ -32,6 +32,9 @@ function supporterPrivacyText()
         $privacyText = config('fbd.privacyStatements.default.' . App::getLocale());
     } else {
         $privacyText = config('fbd.privacyStatements.' . $_COOKIE['fbd_source'] . '.' . App::getLocale());
+        if ($privacyText === null) {
+            $privacyText = config('fbd.privacyStatements.default.' . App::getLocale());
+        }
     }
     return $privacyText;
 }
