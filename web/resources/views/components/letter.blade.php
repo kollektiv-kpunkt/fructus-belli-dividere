@@ -1,4 +1,4 @@
-<div class="fbd-letter-divider mt-12 md:mt-20 flex gap-x-2 justify-between items-center">
+<div class="fbd-letter-divider mt-20 flex gap-x-2 justify-between items-center">
     <div></div>
     <span class="text-2xs italic whitespace-nowrap">{{__("fbd.letter.title") }}</span>
     <div></div>

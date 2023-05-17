@@ -20,13 +20,8 @@ return [
             ]
         ]
     ],
-    "intro" => [
-        "Lorem ipsum dolor sit amet consectetur. Iaculis eget et sapien elementum risus consectetur. Et nunc cras pharetra nulla lectus. Lacus sit pellentesque euismod tellus in convallis odio elementum. Viverra vel netus eleifend nunc egestas sed arcu volutpat. Integer faucibus tempus venenatis ac montes dui adipiscing aliquam. In elementum morbi cras donec at enim.",
-        "Aliquam eget turpis cras suspendisse posuere tincidunt. Risus curabitur dignissim euismod potenti dui. Mi feugiat vel a proin. Viverra porttitor justo a convallis auctor fringilla. Pretium venenatis maecenas eget pellentesque auctor.",
-        "Eget vel senectus vel sagittis nunc et at turpis diam. Vitae sapien porta posuere at pulvinar. Blandit lorem accumsan aliquam blandit convallis eleifend ut mi vitae. Volutpat phasellus condimentum in dui amet. Sollicitudin morbi quisque viverra."
-    ],
     "letter" => [
-        "title" => "Unser Brief an die Mitglieder des Nationalrats",
+        "title" => "Unser Brief an die Mitglieder des National- und Ständerats",
         "show_sources" => "Quellen anzeigen",
         "sources" => [
             "https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/intransparenz-und-inkonsequenz-russlands-krieg-enttarnt-das-geschaeftsmodell-schweiz",
@@ -129,10 +124,10 @@ return [
                 "cardimg" => "/images/examples/commodities.jpg",
                 "content" => "/markdown/rohstoffhandel.md"
             ],
-            "commodities2" => [
-                "title" => "Schweizer Rohstoffhändler auch 2022 mit Rekordgewinnen",
-                "cardimg" => "/images/examples/commodities.jpg",
-                "content" => "/markdown/rohstoffhandel.md"
+            "defense" => [
+                "title" => "Wie die <b>Schweizer Rüstungsindustrie</b> vom Krieg profitiert",
+                "cardimg" => "/images/examples/defense.jpg",
+                "content" => "/markdown/ruestungsindustrie.md"
             ],
         ],
         "readmore" => "Weiterlesen"

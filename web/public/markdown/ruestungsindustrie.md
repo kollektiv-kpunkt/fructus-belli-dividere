@@ -1,0 +1,29 @@
+Putins Armee wurde über Jahre mit Dual-Use Gütern aus der Schweiz aufgerüstet. Davon haben mehrere in der Schweiz ansässige Rüstungsfirmen reichlich profitiert.
+
+Nicht nur was das Füllen von Putins Kriegskasse betrifft, spielt die Schweiz eine wichtige Rolle. Auch Putins Armee wurde über Jahre mit Schweizer Dual-Use Gütern aufgerüstet. Dual-Use-Güter kommen sowohl für zivile als auch für militärische Zwecke zum Einsatz. Davon haben Rüstungsfirmen in der Schweiz, die solche Dual-Use Güter herstellen und exportieren, massiv profitiert.
+
+<br>
+
+### **Schlupflöcher für Triebwerke**
+Bereits 2014 hätten aufgrund der Sanktionen nach der Annexion der Krim praktisch keine Dual-Use Güter mehr nach Russland geliefert werden dürfen. Die EU-Sanktionen gegenüber Russland beinhalteten sogar ein totales Exportverbot für Dual-Use Güter mit militärischem Zweck. Die Schweiz sollte dies mit entsprechenden Massnahmen sicherstellen. 2015 verbot das Staatssekretariat für Wirtschaft Seco den Export von Werkzeugmaschinen. Die Begründung dafür war, dass diese in Russland zu militärischen Zwecken verwendet würden. Gegen diesen Beschluss wurde ein umfangreiches Lobbying von bürgerlicher Seite aufgegleist.
+
+Für die Schweizer Maschinenbaubranche war Russland ein wachsender Markt. Nach dem Einbruch der Exporte intervenierten Vertreter*innen der Schweizer Maschinenindustrie. Sie forderten, dass die Ausfuhrpraxis gelockert werden müsse. Also reichte die damalige St. Galler Ständerätin Keller-Sutter im Dezember 2015 einen Vorstoss ein, in dem sie das «faktische Exportverbot» für Dual-Use Güter kritisierte und den Schaden für den Industriestandort Schweiz betonte. So forderte sie im Vorstoss eine Lockerung zugunsten der betroffenen Schweizer Firmen und somit auch Putins Luftwaffe. Die Hälfte des Ständerates unterzeichnete den Vorstoss.
+
+2016 gab der Bundesrat schliesslich mit folgender Begründung nach: Bei der Beurteilung von Gesuchen für die Ausfuhr nach Russland dürfe es «keine ideologischen Prüfkriterien» geben. Ab diesem Zeitpunkt bewilligte das zuständige Staatssekretariat für Wirtschaft (Seco) praktisch alle Dual-Use Güter nach Russland. Zwischen Anfang 2016 und Ende 2021 waren das rund 1300, die zivil und militärisch genutzt werden können. Unter den Exporten befanden sich auch rund 120 Spezialmaschinen von Schweizer Maschinenbaufirmen, mit denen hochpräzis gefräst und geschliffen werden kann. Diese Maschinen braucht man unter anderem für die Herstellung von Flugzeugtriebwerken – von zivilen wie auch militärischen Flugzeugen. Es ist demnach möglich, dass diese Spezialmaschinen aus der Schweiz in Russland auch zur Herstellung von Triebwerken militärischer Flugzeuge gebraucht wurden. Von Flugzeugen, die die russische Luftwaffe zurzeit im Ukraine-Krieg einsetzt. Das Problem: Für die Behörden ist dies kaum überprüfbar.
+
+<br>
+
+### **Profiteure der Aufrüstung Putins**
+Bis zum 4. März 2022, als die Schweiz die EU-Sanktionen gegen Russland übernahm, konnten Werkzeugmaschinen, die nicht als Dual-Use Gut deklariert waren, ohne gesetzliche Restriktionen nach Russland ausgeführt, vermittelt und verkauft werden. Seither sind sie auf den Sanktionslisten und zur Ausfuhr nach Russland verboten. Von den Schlupflöchern haben bis zu diesem Zeitpunkt verschiedene Schweizer Firmen profitiert. Eine Recherche von Inform Napalm, in der Jounalist*innen, Expert*innen und Aktivist*innen das russische Beschaffungswesen bewertet haben, zeigt, dass mehrere Schweizer Lieferungen in die Hände von russischen Rüstungsfirmen geraten sind. Sie listen fünf Schweizer Firmen auf: GF Machining Solutions, Fritz Studer AG, Codere SA, Sylvac SA sowie die Galika AG. Letztere nahm bei mehreren Exportgeschäften mit den anderen genannten Firmen eine Rolle als Zwischenhändlerin ein.
+
+Wie die Galika AG konkret vom Krieg in der Ukraine profitiert, lässt sich an folgendem Beispiel aufzeigen: Die russischen Steuerbehörden haben mindestens acht Unternehmen verzeichnet, die mit der Swiss Galika AG in Russland verbunden sind. Eines davon ist Galika-Met, das in einem  Moskauer Vorort registriert ist. Laut einer russischen öffentlichen Ausschreibung hätte das Unternehmen bis zum 1. Mai 2022 technische Ausrüstung der Schweizer GF Machining Solutions geliefert, montiert und in Betrieb genommen. Der Vertrag umfasst 407 Millionen russische Rubel, was ungefähr 4.7 Millionen Schweizer Franken entspricht. Auftraggeber ist der zum russischen Konzern Rostech gehörende Motorenhersteller Kusnezow – das grösste Flugzeugtriebwerksdesignunternehmen in Russland.
+
+Somit haben Schweizer Konzerne mithilfe von Lobbyarbeit aus dem Schweizer  Parlament Putin aufgerüstet. Dual-Use Exporte sind kein kleiner finanzieller Posten. Von 2016 bis 2021 wurden Dual-Use Güter im Gesamtwert von 16,5 Milliarden Franken aus der Schweiz exportiert. Die Schweizer Exporte von klassischem Kriegsmaterial beliefen sich in diesem Zeitraum auf 3,7 Milliarden Franken. Über Jahre profitierten in der Schweiz ansässige Rüstungsfirmen von den Kriegsplänen Putins und dem Wegschauen der bürgerlichen Parteien. Heute steht die Schweiz in der Verantwortung und Pflicht, der Ukraine zu helfen. Ein Weg dazu wäre, die Gewinne von Kriegsprofiteuren, die den Krieg mit angeheizt haben, höher zu besteuern und in den Wiederaufbau der Ukraine fliessen zu lassen.
+
+<br>
+
+*Quellen:*<br>
+https://informnapalm.org/at/unternehmen/<br>
+https://www.woz.ch/2234/dual-use-gueter/werkzeuge-fuer-putins-krieg<br>
+https://12ft.io/proxy?&q=https%3A%2F%2Fwww.nzz.ch%2Fwirtschaft%2Fukraine-krieg-schweizer-dual-use-maschinen-fuer-russlands-ruestung-ld.1700234<br>
+https://www.republik.ch/2022/03/05/wie-die-schweiz-ihrem-besten-ruf-gerecht-werden-wollte-aber-ihr-schlechtestes-bild-abgab
