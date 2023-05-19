@@ -59,32 +59,6 @@ return [
     ],
     "faq" => [
         "title" => "Questions fréquentes",
-
-        /**
-         * 1) Qu'est-ce qu'un impôt sur les bénéfices excédentaires ?
-         * Un impôt sur les bénéfices excédentaires désigne un impôt qui prélève les bénéfices des entreprises qui dépassent un "bénéfice normal". Dans le passé, l'idée d'un impôt sur les bénéfices excédentaires a été mise en œuvre principalement en temps de guerre. Les raisons en étaient, d'une part, l'augmentation des besoins financiers publics et, d'autre part, la forte hausse des bénéfices de certains secteurs qui profitaient économiquement de la guerre. C'est pourquoi on parle également d'impôt sur les bénéfices de guerre. L'objectif est de taxer davantage les entreprises ou les branches auxquelles les crises confèrent des avantages économiques particuliers. Celles-ci doivent participer financièrement à la gestion de la crise par la société. Ainsi, le secrétaire général de l'ONU António Guterres a demandé en 2022 à tous les États de taxer les bénéfices excessifs des entreprises énergétiques et d'utiliser les fonds "pour aider les personnes qui souffrent de la hausse des prix des denrées alimentaires et de l'énergie".
-         *
-         * 2) Pourquoi demandons-nous un impôt sur les bénéfices de guerre ?
-         * Les effets de la pandémie de Covid-19 et de la guerre en Ukraine se font clairement sentir sur les marchés mondiaux. En raison de la spéculation boursière, des goulets d'étranglement, des difficultés logistiques et des sanctions, les prix des matières premières ont entre-temps grimpé en flèche tout en fluctuant à un niveau élevé. Conséquences pour des millions de personnes dans le monde : l'énergie et les denrées alimentaires deviennent massivement plus chères, voire inabordables. Pour les groupes suisses de matières premières comme Glencore, Trafigura, Cargill, Vitol et autres, les bouleversements du marché se sont traduits par des bénéfices historiques de plusieurs milliards. Un impôt sur les bénéfices de guerre prélevé sur ces profits peut contribuer à atténuer les conséquences sociales et économiques de la guerre en Ukraine et apporter une contribution significative à la reconstruction de l'Ukraine. Il s'agit d'une mesure de redistribution de ceux qui profitent particulièrement des crises à ceux qui en souffrent le plus.
-         * 3) Pourquoi ce sont précisément les négociants en matières premières qui profitent des périodes de crise ?
-         * La position centrale des négociants entre l'offre et la demande de matières premières, associée à leur réseau logistique mondial, à leurs possibilités de financement et à leur accès exclusif aux informations sur le marché, font que les négociants sont extrêmement rentables, surtout en période de crise. Il est cynique de tirer profit de crises au cours desquelles des millions de personnes sont menacées de famine, glissent dans la pauvreté absolue et souffrent d'une insécurité aiguë d'approvisionnement alimentaire. L'approvisionnement en matières premières est important, mais il est illégitime de multiplier par dix les bénéfices en temps de crise.
-         *
-         * 4) Quel est le rapport entre la Suisse et les bénéfices de guerre des négociants en matières premières ?
-         * La Suisse est la plus grande place de négoce de matières premières au monde. Tous les négociants en matières premières d'importance mondiale ont soit leur siège principal, soit d'importants bureaux commerciaux dans le pays. Selon les estimations de Public Eye, au moins 50% des céréales, 40% du charbon, un baril de pétrole brut sur trois, une fève de café sur deux et une fève de cacao sur trois sont négociés via ces négociants. Les négociants en matières premières réalisent une grande partie de leur chiffre d'affaires grâce à leurs activités commerciales depuis la Suisse. La Suisse attire depuis toujours les négociants par sa politique fiscale basse et ses accords fiscaux sur mesure et est donc, en tant que pays de résidence de cette branche aussi hautement rentable que discrète, coresponsable de ces profits de guerre. De plus, contrairement aux entreprises d'extraction de matières premières et d'énergie, les négociants en matières premières ne sont pas inclus dans la réglementation de l'UE (voir question 6). La Suisse peut corriger cela en soumettant les négociants en matières premières à un impôt sur les bénéfices excédentaires et en évitant ainsi qu'ils ne deviennent une échappatoire pour les bénéfices de guerre.
-         *
-         * 5) Pourquoi les recettes de l'impôt sur les bénéfices excédentaires devraient-elles être affectées à la reconstruction de l'Ukraine ?
-         * Avant le début de la guerre, plus d'un tiers des recettes de l'État russe provenait des revenus du pétrole et du gaz. On estime qu'en 2021, entre 50 et 60 pour cent du pétrole russe et 75 pour cent du charbon russe étaient négociés via Genève, Zoug, Lugano et Zurich. En tant que plaque tournante des sources d'énergie russes, la Suisse porte donc une responsabilité historique et politique dans cette guerre et a une dette envers l'Ukraine. Les coûts de la reconstruction ont été estimés à 750 milliards de francs fin 2022. Avec un impôt temporaire sur les bénéfices de guerre, la Suisse pourrait apporter une contribution importante à la répartition équitable des bénéfices de guerre.
-         *
-         * 6) D'autres pays ont-ils déjà introduit une taxe sur les bénéfices excédentaires?
-         * Depuis le début de la guerre en Ukraine, de nombreux pays ont décidé de taxer les bénéfices excédentaires dans le secteur de l'énergie. Par exemple, le Royaume-Uni a annoncé une telle taxe dès mai 2022 et l'a même augmentée par la suite. Après que plusieurs pays de l'UE comme l'Italie, l'Espagne, la Grèce et la Roumanie ont introduit des taxes similaires de manière indépendante au cours de l'année 2022, l'Union européenne toute entière a décidé en octobre dernier d'introduire une taxe sur les bénéfices excédentaires. Ainsi, dans toute l'UE, les bénéfices excédentaires des groupes gaziers, charbonniers ou pétroliers qui réalisent au moins 75% de leur chiffre d'affaires dans l'extraction, l'exploitation minière ou le raffinage seront imposés à un taux minimum de 33%. Les bénéfices issus du commerce de ces matières premières ou d'autres matières premières ne sont pas concernés.
-         *
-         * 7) Comment peut-on déterminer un bénéfice excédentaire et comment doit-il être imposé ?
-         * La base de calcul de l'impôt sur les bénéfices excédentaires de l'UE est le bénéfice annuel moyen des années 2018-2021. Tous les bénéfices des entreprises pétrolières, charbonnières et gazières qui sont supérieurs de plus de 20 % à cette moyenne en 2022 ou 2023 sont considérés comme des bénéfices excédentaires dans l'UE. Ils seront imposés séparément avec un taux d'imposition minimum de 33 pour cent.
-         * L'introduction d'un impôt sur les bénéfices de guerre dépend uniquement de la volonté politique et serait donc également possible en Suisse.
-         *
-         * 8) Quels groupes seraient concernés par un tel impôt sur les bénéfices excédentaires ?
-         * Les entreprises concernées seraient celles qui ont considérablement multiplié leurs bénéfices en raison des bouleversements du marché dus à la guerre en Ukraine. Les secteurs de la production d'énergie et de matières premières, du commerce d'énergie et de matières premières, de la navigation en haute mer et de la production d'armement seraient particulièrement concernés, car ces bénéfices excédentaires ont été réalisés spécifiquement dans le contexte de la guerre en Ukraine.
-         */
         "questions" => [
             [
                 "question" => "Qu'est-ce qu'un impôt sur les bénéfices excédentaires ?",
@@ -246,7 +220,6 @@ return [
         ],
         "failed" => [
             "title" => "Quelque chose s'est mal passé :(",
-            "text" =>
             "text" => "Ton adresse e-mail n'a pas pu être confirmée. Merci de réessayer plus tard ou de nous contacter !",
             "tohome" => "Retour à la page d'accueil"
         ]
