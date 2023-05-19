@@ -1,5 +1,5 @@
 <p>Hallo {{$supporter->data["fname"]}}</p>
-<p>Danke, dass du unseren Brief unterschrieben hast. Bitte bestätige deine E-Mail Adresse, damit wir deinen Namen auf unserer Liste anzeigen können.</p>
+<p>Danke, dass du unseren Brief unterschrieben hast. Bitte bestätige deine E-Mail Adresse, damit wir sicherstellen können, dass du ein Mensch und kein Roboter bist.</p>
 <div class="my-4">
     <a href="{{__("fbd.site.url")}}/verify/{{$supporter->email_verification_token}}?email={{$supporter->email}}" class="fbd-button">E-Mail Adresse bestätigen</a>
 </div>

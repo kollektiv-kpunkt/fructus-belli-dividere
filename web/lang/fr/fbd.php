@@ -1,29 +1,30 @@
 <?php
 
 /**
- * German language files for the FBD Theme
+ * French language file for the FBD Theme
  */
 
 return [
     "site" => [
-        "title" => "Kriegsgewinne besteuern!",
-        "url" => "https://kriegsgewinne.ch",
+        "title" => "Taxer les profits de guerre ! SIGNER MAINTENANT !",
+        "url" => "https://profitesdeguerre.ch",
+        "description" => "La guerre en Ukraine génère des milliards de bénéfices pour les groupes de matières premières comme Glencore, Trafigura et autres. Aidez-nous à faire entendre notre cause en signant la lettre ouverte."
     ],
     "heroine" => [
-        "title" => "Kriegsgewinne besteuern!",
-        "lead" => "Der Ukraine-Krieg führt für Rohstoffkonzerne wie Glencore, Trafigura und Co. zu Milliardengewinnen. Vor Kriegsausbruch wurden bis zu 60% des russischen Erdöls und 75% der russischen Kohle über die Schweiz gehandelt. Die Schweiz trägt somit als Drehscheibe russischer Energieträger eine historische Verantwortung. Mit einer Kriegsgewinnsteuer auf Übergewinne von Rohstoffhändlern kann sie einen wichtigen Beitrag für den Wiederaufbau der Ukraine leisten. Mit diesem offenen Brief wollen Vertreter*innen der Zivilgesellschaft das Parlament dazu auffordern, eine Kriegsgewinnsteuer einzuführen. <b>Helfen Sie mit, unserem Anliegen Gehör zu verschaffen und unterzeichnen Sie den offenen Brief mit.</b>",
+        "title" => "Taxer les profits de guerre&nbsp;!",
+        "lead" => "La guerre en Ukraine a généré des milliards de dollars de bénéfices pour les groupes de négoces de matières premières comme Glencore, Trafigura et autres. Avant le début de la guerre, jusqu'à 60% du pétrole russe et 75% du charbon russe étaient négociés via la Suisse. La Suisse porte donc une responsabilité historique en tant que plaque tournante des sources d'énergie russes. En prélevant un impôt sur les bénéfices de guerre excédentaires des négociants en matières premières, elle peut apporter une contribution importante à la reconstruction de l'Ukraine. Par cette lettre ouverte, des représentant.es de la société civile veulent demander au Parlement d'introduire un impôt sur les bénéfices de guerre. <b>Aidez-nous à faire entendre notre voix en signant la lettre ouverte.</b>",
         "demands" => [
-            "title" => "Wir fordern:",
+            "title" => "Nous demandons&nbsp;:",
             "items" => [
-                "Eine Übergewinnsteuer, wie sie auch in europäischen Staaten umgesetzt wird, für die Rekordgewinne von Rohstofffirmen einzuführen.",
-                "Diese Gelder für den zivilen und ökologischen Wiederaufbau der Ukraine einzusetzen.",
-                "Der parlamentarischen Initiative <em>22.457 Kriegsgewinne mit einer Windfall Profit Tax besteuern</em>, Folge zu geben. Diese stellt einen ersten Schritt zur Einführung einer Übergewinnsteuer dar."
+                "L'introduction d'un impôt sur les bénéfices excédentaires, tel qu'il est également mis en œuvre dans les États européens, pour les bénéfices records des entreprises de négoce de matières premières.",
+                "L'utilisation de ces fonds pour la reconstruction civile et écologique de l'Ukraine.",
+                "La mise en oeuvre de l'initiative parlementaire 22.457 visant à imposer les bénéfices de guerre au moyen d'une taxe sur les bénéfices exceptionnels. Celle-ci constitue un premier pas vers l'introduction d'un impôt sur les bénéfices excédentaires."
             ]
         ]
     ],
     "letter" => [
-        "title" => "Unser Brief an die Mitglieder des National- und Ständerats",
-        "show_sources" => "Quellen anzeigen",
+        "title" => "Notre lettre aux membres du Conseil national et du Conseil des États",
+        "show_sources" => "Sources",
         "sources" => [
             "https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/intransparenz-und-inkonsequenz-russlands-krieg-enttarnt-das-geschaeftsmodell-schweiz",
             "https://www.publiceye.ch/de/themen/agrarrohstoffhandel/krieg-und-krisen-und-die-rohstoffhaendler-machen-rekordgewinne",
@@ -38,61 +39,87 @@ return [
         "title" => "Teile unseren offenen Brief!",
         "sharetitle" => "Kriegsgewinne besteuern!",
         "text" => <<<EOD
-        Hoi 🙋\n\nHast du gewusst, dass Rohstoffkonzerne wie Glencore aufgrund des Ukraine-Krieges Milliardengewinne machen? Ich habe gerade einen offenen Brief an das Schweizer Parlament unterschrieben, der fordert, dass diese Kriegsgewinne besteuert werden und für den Wiederaufbau in der Ukraine verwendet werden. Unterschreibst du auch?\n👉 www.kriegsgewinne.ch
+        Salut 🙋\n\nSavais-tu que les entreprises de matières premières comme Glencore réalisent des milliards de bénéfices en conséquence de la guerre en Ukraine ? Je viens de signer une lettre ouverte au Parlement suisse demandant que ces bénéfices de guerre soient imposés et utilisés pour la reconstruction de l'Ukraine. Est-ce que tu vas aussi signer ?\n👉 www.profitsdeguerre.ch
         EOD,
         "tweet" => <<<EOD
-        Ich habe gerade einen offenen Brief an das Schweizer Parlament unterschrieben, der fordert, dass #Kriegsgewinne von Schweizer Unternehmen besteuert werden und für den Wiederaufbau in der #Ukraine 🇺🇦 verwendet werden. Unterschreibst du auch?\n👉 www.kriegsgewinne.ch
+        Je viens de signer une lettre ouverte au Parlement suisse demandant que les #profitsDeGuerre des entreprises suisses soient imposés et utilisés pour la reconstruction de l'#Ukraine 🇺🇦. Signez-vous aussi?\n👉 www.profitsdeguerre.ch
         EOD,
         "buttons" => [
-            "whatsapp" => "Auf WhatsApp teilen",
-            "telegram" => "Auf Telegram teilen",
-            "facebook" => "Auf Facebook teilen",
-            "twitter" => "Auf Twitter teilen",
-            "email" => "Per E-Mail teilen"
+            "whatsapp" => "Partager sur WhatsApp",
+            "telegram" => "Partager sur Telegram",
+            "facebook" => "Partager sur Facebook",
+            "twitter" => "Partager sur Twitter",
+            "email" => "Partager par e-mail"
         ]
     ],
     "supporters" => [
-        "title" => "Unsere Unterstützer*innen",
-        "lead" => "<b>" . supporterCount() . " Personen</b> unterstützen uns bereits. Hilf auch du mit, unserem Anliegen Gehör zu verschaffen und unterzeichne den offenen Brief!",
-        "showall" => "weitere Unterstützer*innen anzeigen"
+        "title" => "Signataires",
+        "lead" => "<b>" . supporterCount() . " personnes</b> nous soutiennent déjà. Aide-nous à faire entendre notre voix en signant la lettre ouverte !",
+        "showall" => "afficher plus de soutiens"
     ],
     "faq" => [
-        "title" => "Häufige Fragen",
+        "title" => "Questions fréquentes",
+
+        /**
+         * 1) Qu'est-ce qu'un impôt sur les bénéfices excédentaires ?
+         * Un impôt sur les bénéfices excédentaires désigne un impôt qui prélève les bénéfices des entreprises qui dépassent un "bénéfice normal". Dans le passé, l'idée d'un impôt sur les bénéfices excédentaires a été mise en œuvre principalement en temps de guerre. Les raisons en étaient, d'une part, l'augmentation des besoins financiers publics et, d'autre part, la forte hausse des bénéfices de certains secteurs qui profitaient économiquement de la guerre. C'est pourquoi on parle également d'impôt sur les bénéfices de guerre. L'objectif est de taxer davantage les entreprises ou les branches auxquelles les crises confèrent des avantages économiques particuliers. Celles-ci doivent participer financièrement à la gestion de la crise par la société. Ainsi, le secrétaire général de l'ONU António Guterres a demandé en 2022 à tous les États de taxer les bénéfices excessifs des entreprises énergétiques et d'utiliser les fonds "pour aider les personnes qui souffrent de la hausse des prix des denrées alimentaires et de l'énergie".
+         *
+         * 2) Pourquoi demandons-nous un impôt sur les bénéfices de guerre ?
+         * Les effets de la pandémie de Covid-19 et de la guerre en Ukraine se font clairement sentir sur les marchés mondiaux. En raison de la spéculation boursière, des goulets d'étranglement, des difficultés logistiques et des sanctions, les prix des matières premières ont entre-temps grimpé en flèche tout en fluctuant à un niveau élevé. Conséquences pour des millions de personnes dans le monde : l'énergie et les denrées alimentaires deviennent massivement plus chères, voire inabordables. Pour les groupes suisses de matières premières comme Glencore, Trafigura, Cargill, Vitol et autres, les bouleversements du marché se sont traduits par des bénéfices historiques de plusieurs milliards. Un impôt sur les bénéfices de guerre prélevé sur ces profits peut contribuer à atténuer les conséquences sociales et économiques de la guerre en Ukraine et apporter une contribution significative à la reconstruction de l'Ukraine. Il s'agit d'une mesure de redistribution de ceux qui profitent particulièrement des crises à ceux qui en souffrent le plus.
+         * 3) Pourquoi ce sont précisément les négociants en matières premières qui profitent des périodes de crise ?
+         * La position centrale des négociants entre l'offre et la demande de matières premières, associée à leur réseau logistique mondial, à leurs possibilités de financement et à leur accès exclusif aux informations sur le marché, font que les négociants sont extrêmement rentables, surtout en période de crise. Il est cynique de tirer profit de crises au cours desquelles des millions de personnes sont menacées de famine, glissent dans la pauvreté absolue et souffrent d'une insécurité aiguë d'approvisionnement alimentaire. L'approvisionnement en matières premières est important, mais il est illégitime de multiplier par dix les bénéfices en temps de crise.
+         *
+         * 4) Quel est le rapport entre la Suisse et les bénéfices de guerre des négociants en matières premières ?
+         * La Suisse est la plus grande place de négoce de matières premières au monde. Tous les négociants en matières premières d'importance mondiale ont soit leur siège principal, soit d'importants bureaux commerciaux dans le pays. Selon les estimations de Public Eye, au moins 50% des céréales, 40% du charbon, un baril de pétrole brut sur trois, une fève de café sur deux et une fève de cacao sur trois sont négociés via ces négociants. Les négociants en matières premières réalisent une grande partie de leur chiffre d'affaires grâce à leurs activités commerciales depuis la Suisse. La Suisse attire depuis toujours les négociants par sa politique fiscale basse et ses accords fiscaux sur mesure et est donc, en tant que pays de résidence de cette branche aussi hautement rentable que discrète, coresponsable de ces profits de guerre. De plus, contrairement aux entreprises d'extraction de matières premières et d'énergie, les négociants en matières premières ne sont pas inclus dans la réglementation de l'UE (voir question 6). La Suisse peut corriger cela en soumettant les négociants en matières premières à un impôt sur les bénéfices excédentaires et en évitant ainsi qu'ils ne deviennent une échappatoire pour les bénéfices de guerre.
+         *
+         * 5) Pourquoi les recettes de l'impôt sur les bénéfices excédentaires devraient-elles être affectées à la reconstruction de l'Ukraine ?
+         * Avant le début de la guerre, plus d'un tiers des recettes de l'État russe provenait des revenus du pétrole et du gaz. On estime qu'en 2021, entre 50 et 60 pour cent du pétrole russe et 75 pour cent du charbon russe étaient négociés via Genève, Zoug, Lugano et Zurich. En tant que plaque tournante des sources d'énergie russes, la Suisse porte donc une responsabilité historique et politique dans cette guerre et a une dette envers l'Ukraine. Les coûts de la reconstruction ont été estimés à 750 milliards de francs fin 2022. Avec un impôt temporaire sur les bénéfices de guerre, la Suisse pourrait apporter une contribution importante à la répartition équitable des bénéfices de guerre.
+         *
+         * 6) D'autres pays ont-ils déjà introduit une taxe sur les bénéfices excédentaires?
+         * Depuis le début de la guerre en Ukraine, de nombreux pays ont décidé de taxer les bénéfices excédentaires dans le secteur de l'énergie. Par exemple, le Royaume-Uni a annoncé une telle taxe dès mai 2022 et l'a même augmentée par la suite. Après que plusieurs pays de l'UE comme l'Italie, l'Espagne, la Grèce et la Roumanie ont introduit des taxes similaires de manière indépendante au cours de l'année 2022, l'Union européenne toute entière a décidé en octobre dernier d'introduire une taxe sur les bénéfices excédentaires. Ainsi, dans toute l'UE, les bénéfices excédentaires des groupes gaziers, charbonniers ou pétroliers qui réalisent au moins 75% de leur chiffre d'affaires dans l'extraction, l'exploitation minière ou le raffinage seront imposés à un taux minimum de 33%. Les bénéfices issus du commerce de ces matières premières ou d'autres matières premières ne sont pas concernés.
+         *
+         * 7) Comment peut-on déterminer un bénéfice excédentaire et comment doit-il être imposé ?
+         * La base de calcul de l'impôt sur les bénéfices excédentaires de l'UE est le bénéfice annuel moyen des années 2018-2021. Tous les bénéfices des entreprises pétrolières, charbonnières et gazières qui sont supérieurs de plus de 20 % à cette moyenne en 2022 ou 2023 sont considérés comme des bénéfices excédentaires dans l'UE. Ils seront imposés séparément avec un taux d'imposition minimum de 33 pour cent.
+         * L'introduction d'un impôt sur les bénéfices de guerre dépend uniquement de la volonté politique et serait donc également possible en Suisse.
+         *
+         * 8) Quels groupes seraient concernés par un tel impôt sur les bénéfices excédentaires ?
+         * Les entreprises concernées seraient celles qui ont considérablement multiplié leurs bénéfices en raison des bouleversements du marché dus à la guerre en Ukraine. Les secteurs de la production d'énergie et de matières premières, du commerce d'énergie et de matières premières, de la navigation en haute mer et de la production d'armement seraient particulièrement concernés, car ces bénéfices excédentaires ont été réalisés spécifiquement dans le contexte de la guerre en Ukraine.
+         */
         "questions" => [
             [
-                "question" => "Was ist eine Übergewinnsteuer?",
-                "answer" => "Eine Übergewinnsteuer bezeichnet eine Steuer, die Gewinne von Unternehmen abschöpft, die über einen «Normalgewinn» hinausgehen. Die Idee einer Übergewinnsteuer ist in der Vergangenheit mehrheitlich in Kriegszeiten umgesetzt worden. Anlass dafür waren zum einen der gestiegene öffentliche Finanzbedarf, zum anderen die stark gestiegenen Gewinne bestimmter Branchen, die wirtschaftlich vom Krieg profitierten. Man spricht deshalb auch von einer Kriegsgewinnsteuer. Ziel ist es, jene Unternehmen oder Branchen, denen Krisen besondere wirtschaftliche Vorteile verschaffen, stärker zu besteuern. Diese sollen sich finanziell an der gesellschaftlichen Bewältigung der Krise beteiligen. So forderte UNO-Generalsekretär António Guterres 2022, alle Staaten dazu auf, die exzessiven Gewinne der Energiefirmen zu besteuern und die Mittel zu verwenden, «um die Menschen, die unter den steigenden Nahrungsmittel- und Energiepreisen leiden», zu unterstützen."
+                "question" => "Qu'est-ce qu'un impôt sur les bénéfices excédentaires ?",
+                "answer" => "Un impôt sur les bénéfices excédentaires désigne un impôt qui prélève les bénéfices des entreprises qui dépassent un «bénéfice normal». Dans le passé, l'idée d'un impôt sur les bénéfices excédentaires a été mise en œuvre principalement en temps de guerre. Les raisons en étaient, d'une part, l'augmentation des besoins financiers publics et, d'autre part, la forte hausse des bénéfices de certains secteurs qui profitaient économiquement de la guerre. C'est pourquoi on parle également d'impôt sur les bénéfices de guerre. L'objectif est de taxer davantage les entreprises ou les branches auxquelles les crises confèrent des avantages économiques particuliers. Celles-ci doivent participer financièrement à la gestion de la crise par la société. Ainsi, le secrétaire général de l'ONU António Guterres a demandé en 2022 à tous les États de taxer les bénéfices excessifs des entreprises énergétiques et d'utiliser les fonds «pour aider les personnes qui souffrent de la hausse des prix des denrées alimentaires et de l'énergie»."
             ],
             [
-                "question" => "Weshalb fordern wir eine Kriegsgewinnsteuer?",
-                "answer" => "Die Auswirkungen der Corona-Pandemie und des Krieges in der Ukraine sind auf den globalen Märkten deutlich spürbar. Die Rohstoffpreise schossen aufgrund von Börsenspekulation, Engpässen, logistischen Schwierigkeiten und Sanktionen zwischenzeitlich drastisch in die Höhe und schwankten gleichzeitig auf hohem Niveau. Die Folgen für Millionen von Menschen weltweit:  Energie und Nahrungsmittel werden massiv teurer oder gar unerschwinglich. Für Schweizer Rohstoffkonzerne wie Glencore, Trafigura, Cargill, Vitol und Co. resultierten die Marktverwerfungen in historischen Milliarden-Gewinnen. Eine Kriegsgewinnsteuer auf diese Profite kann dazu beitragen, die sozialen und ökonomischen Folgen des Ukraine-Kriegs abzufedern und einen bedeutenden Beitrag zum Wiederaufbau der Ukraine leisten. Sie ist eine Umverteilungsmassnahme von jenen, die besonders von Krisen profitieren, an jene, die besonders darunter leiden."
+                "question" => "Pourquoi demandons-nous un impôt sur les bénéfices de guerre ?",
+                "answer" => "Les effets de la pandémie de Covid-19 et de la guerre en Ukraine se font clairement sentir sur les marchés mondiaux. En raison de la spéculation boursière, des goulets d'étranglement, des difficultés logistiques et des sanctions, les prix des matières premières ont entre-temps grimpé en flèche tout en fluctuant à un niveau élevé. Conséquences pour des millions de personnes dans le monde : l'énergie et les denrées alimentaires deviennent massivement plus chères, voire inabordables. Pour les groupes suisses de matières premières comme Glencore, Trafigura, Cargill, Vitol et autres, les bouleversements du marché se sont traduits par des bénéfices historiques de plusieurs milliards. Un impôt sur les bénéfices de guerre prélevé sur ces profits peut contribuer à atténuer les conséquences sociales et économiques de la guerre en Ukraine et apporter une contribution significative à la reconstruction de l'Ukraine. Il s'agit d'une mesure de redistribution de ceux qui profitent particulièrement des crises à ceux qui en souffrent le plus."
             ],
             [
-                "question" => "Wieso profitieren ausgerechnet Rohstoffhändler in Krisenzeiten?",
-                "answer" => "Die zentrale Stellung der Händler zwischen Rohstoffangebot und -nachfrage, gepaart mit ihrem globalen Logistiknetzwerk, Finanzierungsmöglichkeiten und exklusivem Zugang zu Marktinformationen machen die Händler gerade in Krisenzeiten äusserts profitabel. Aus Krisen, in denen Millionen von Menschen von Hunger bedroht sind, in die absolute Armut rutschen und akuter Versorgungsunsicherheit leiden, Profit zu schlagen, ist zynisch. Die Versorgung mit Rohstoffen ist wichtig; eine Verzehnfachung des Profits in Krisenzeiten ist jeodch illegitim."
+                "question" => "Pourquoi ce sont précisément les négociants en matières premières qui profitent des périodes de crise ?",
+                "answer" => "La position centrale des négociants entre l'offre et la demande de matières premières, associée à leur réseau logistique mondial, à leurs possibilités de financement et à leur accès exclusif aux informations sur le marché, font que les négociants sont extrêmement rentables, surtout en période de crise. Il est cynique de tirer profit de crises au cours desquelles des millions de personnes sont menacées de famine, glissent dans la pauvreté absolue et souffrent d'une insécurité aiguë d'approvisionnement alimentaire. L'approvisionnement en matières premières est important, mais il est illégitime de multiplier par dix les bénéfices en temps de crise."
             ],
             [
-                "question" => "Was hat die Schweiz mit den Kriegsprofiten der Rohstoffhändler zu tun?",
-                "answer" => "Die Schweiz ist der grösste Rohstoffhandelsplatz der Welt. Alle global relevanten Rohstoffhändler haben entweder ihren Hauptsitz oder wichtige Handelsbüros hierzulande. Über diese Händler werden Schätzungen von Public Eye zufolge mindestens 50% des Getreides, 40% der Kohle, jedes dritte Fass Rohöl, jede zweite Kaffee- und jede dritte Kakaobohne gehandelt. Die Rohstoffhändler erwirtschaften mit ihren Handelstätigkeiten aus der Schweiz einen grossen Teil ihres Umsatzes. Die Schweiz lockt die Händler seit jeher mit ihrer Tiefsteuerpolitik und massgeschneiderten Steuerdeals an und ist daher als Sitzstaat dieser so hochprofitablen wie verschwiegenen Branche mitverantwortlich für deren Kriegsprofite. Zudem sind Rohstoffhändler im Gegensatz zu den Rohstoffförder- und Energiefirmen in der EU-Regelung (siehe Frage 6) nicht eingeschlossen sind. Die Schweiz kann dies korrigieren, indem sie die Rohstoffhändler einer Übergewinnsteuer unterstellt und so verhindert, dass sie zum Schlupfloch für Kriegsgewinne wird."
+                "question" => "Quel est le rapport entre la Suisse et les bénéfices de guerre des négociants en matières premières ?",
+                "answer" => "La Suisse est la plus grande place de négoce de matières premières au monde. Tous les négociants en matières premières d'importance mondiale ont soit leur siège principal, soit d'importants bureaux commerciaux dans le pays. Selon les estimations de Public Eye, au moins 50% des céréales, 40% du charbon, un baril de pétrole brut sur trois, une fève de café sur deux et une fève de cacao sur trois sont négociés via ces négociants. Les négociants en matières premières réalisent une grande partie de leur chiffre d'affaires grâce à leurs activités commerciales depuis la Suisse. La Suisse attire depuis toujours les négociants par sa politique fiscale basse et ses accords fiscaux sur mesure et est donc, en tant que pays de résidence de cette branche aussi hautement rentable que discrète, coresponsable de ces profits de guerre. De plus, contrairement aux entreprises d'extraction de matières premières et d'énergie, les négociants en matières premières ne sont pas inclus dans la réglementation de l'UE (voir question 6). La Suisse peut corriger cela en soumettant les négociants en matières premières à un impôt sur les bénéfices excédentaires et en évitant ainsi qu'ils ne deviennent une échappatoire pour les bénéfices de guerre."
             ],
             [
-                "question" => "Wieso sollen die Einnahmen der Übergewinnsteuer in den Wiederaufbau der Ukraine fliessen?",
-                "answer" => "Mehr als ein Drittel der russischen Staatseinnahmen stammten vor Kriegsausbruch aus Einnahmen von Öl und Gas. Schätzungsweise wurden 2021 zwischen 50 und 60 Prozent des russischen Erdöls und 75 Prozent der russischen Kohle über Genf, Zug, Lugano und Zürich gehandelt. Die Schweiz trägt als Drehscheibe russischer Energieträger somit eine historische und politische Verantwortung an diesem Krieg und steht der Ukraine gegenüber in der Schuld. Die Kosten für den Wiederaufbau wurden Ende 2022 auf 750 Milliarden Franken geschätzt. Mit einer temporären Kriegsgewinnsteuer könnte die Schweiz einen wichtigen Beitrag dazu leisten, Kriegsgewinne gerecht zu verteilen."
+                "question" => "Pourquoi les recettes de l'impôt sur les bénéfices excédentaires devraient-elles être affectées à la reconstruction de l'Ukraine ?",
+                "answer" => "Avant le début de la guerre, plus d'un tiers des recettes de l'État russe provenait des revenus du pétrole et du gaz. On estime qu'en 2021, entre 50 et 60 pour cent du pétrole russe et 75 pour cent du charbon russe étaient négociés via Genève, Zoug, Lugano et Zurich. En tant que plaque tournante des sources d'énergie russes, la Suisse porte donc une responsabilité historique et politique dans cette guerre et a une dette envers l'Ukraine. Les coûts de la reconstruction ont été estimés à 750 milliards de francs fin 2022. Avec un impôt temporaire sur les bénéfices de guerre, la Suisse pourrait apporter une contribution importante à la répartition équitable des bénéfices de guerre."
             ],
             [
-                "question" => "Haben bereits andere Länder eine Übergewinnsteuer eingeführt?",
-                "answer" => "Seit Ausbruch des Ukraine-Kriegs haben sich viele Länder entschieden, Übergewinne im Energiesektor zu besteuern. Beispielsweise hat das Vereinigte Königreich bereits im Mai 2022 eine solche Steuer angekündigt und später sogar noch erhöht. Nachdem im Verlauf des Jahres 2022 verschiedene EU-Staaten wie Italien, Spanien, Griechenland und Rumänien eigenständig ähnliche Steuern eingeführt hatten, beschloss die Europäische Union vergangenen Oktober, eine Übergewinnsteuer einzuführen. Somit werden in der ganzen EU die Übergewinne von Gas-, Kohle- oder Erdölkonzernen, die mindestens 75% ihres Umsatzes in der Extraktion, im Bergbau, oder in der Raffination erzielen, mit einem Mindeststeuersatz von 33 Prozent besteuert. Die Gewinne aus dem Handel mit diesen oder weiteren Rohstoffen sind davon nicht betroffen."
+                "question" => "D'autres pays ont-ils déjà introduit une taxe sur les bénéfices excédentaires?",
+                "answer" => "Depuis le début de la guerre en Ukraine, de nombreux pays ont décidé de taxer les bénéfices excédentaires dans le secteur de l'énergie. Par exemple, le Royaume-Uni a annoncé une telle taxe dès mai 2022 et l'a même augmentée par la suite. Après que plusieurs pays de l'UE comme l'Italie, l'Espagne, la Grèce et la Roumanie ont introduit des taxes similaires de manière indépendante au cours de l'année 2022, l'Union européenne toute entière a décidé en octobre dernier d'introduire une taxe sur les bénéfices excédentaires. Ainsi, dans toute l'UE, les bénéfices excédentaires des groupes gaziers, charbonniers ou pétroliers qui réalisent au moins 75% de leur chiffre d'affaires dans l'extraction, l'exploitation minière ou le raffinage seront imposés à un taux minimum de 33%. Les bénéfices issus du commerce de ces matières premières ou d'autres matières premières ne sont pas concernés."
             ],
             [
-                "question" => "Wie lässt sich ein Übergewinn ermitteln und wie sollte er besteuert werden?",
+                "question" => "Comment peut-on déterminer un bénéfice excédentaire et comment doit-il être imposé ?",
                 "answer" => [
-                    "Als Berechnungsgrundlage für die Übergewinnsteuer der EU dient der durchschnittliche Jahresgewinn der Jahre 2018-2021. Alle Gewinne von Öl-, Kohle- und Gasunternehmen, die 2022 oder 2023 mehr als 20 Prozent höher sind als dieser Durchschnitt, gelten in der EU als Übergewinne. Sie werden mit einem Mindeststeuersatz von 33 Prozent gesondert besteuert.",
-                    "Die Einführung einer Kriegsgewinnsteuer ist einzig vom politischen Willen abhängig und wäre somit auch in der Schweiz möglich."
+                    "La base de calcul de l'impôt sur les bénéfices excédentaires de l'UE est le bénéfice annuel moyen des années 2018-2021. Tous les bénéfices des entreprises pétrolières, charbonnières et gazières qui sont supérieurs de plus de 20 % à cette moyenne en 2022 ou 2023 sont considérés comme des bénéfices excédentaires dans l'UE. Ils seront imposés séparément avec un taux d'imposition minimum de 33 pour cent.",
+                    "L'introduction d'un impôt sur les bénéfices de guerre dépend uniquement de la volonté politique et serait donc également possible en Suisse."
                 ]
             ],
             [
-                "question" => "Welche Konzerne wären von einer solchen Übergewinnsteuer betroffen?",
-                "answer" => "Betroffen wären Unternehmen, die durch die Marktverwerfungen aufgrund des Ukrainekriegs ihre Gewinne deutlich vervielfacht haben. Dabei wären insbesondere die Sektoren Energie- und Rohstoffproduktion, Energie- und Rohstoffhandel, die Hochseeschifffahrt  sowie die Rüstungsproduktion betroffen, da diese Übergewinne speziell in Zusammenhang mit dem Ukrainekrieg erwirtschaftet wurden."
+                "question" => "Quels groupes seraient concernés par un tel impôt sur les bénéfices excédentaires ?",
+                "answer" => "Les entreprises concernées seraient celles qui ont considérablement multiplié leurs bénéfices en raison des bouleversements du marché dus à la guerre en Ukraine. Les secteurs de la production d'énergie et de matières premières, du commerce d'énergie et de matières premières, de la navigation en haute mer et de la production d'armement seraient particulièrement concernés, car ces bénéfices excédentaires ont été réalisés spécifiquement dans le contexte de la guerre en Ukraine."
             ]
         ]
     ],
@@ -100,15 +127,15 @@ return [
         "links" => [
             [
                 "href" => "/privacy",
-                "text" => "Datenschutz"
+                "text" => "Protections des données"
             ],
             [
                 "href" => "/imprint",
-                "text" => "Impressum"
+                "text" => "Mentions légales"
             ],
             [
                 "href" => "mailto:info@kriegsgewinne.ch",
-                "text" => "Kontakt"
+                "text" => "Contact"
             ],
             [
                 "href" => "https://kriegsgewinne.ch",
@@ -121,70 +148,70 @@ return [
         ]
     ],
     "examples" => [
-        "title" => "Beispiele aus der Wirtschaft",
+        "title" => "Exemples tirés de l'économie",
         "examples" => [
             "commodities" => [
-                "title" => "<b>Schweizer Rohstoffhändler</b> auch 2022 mit Rekordgewinnen",
+                "title" => "<b>Les négociants suisses en matières premières</b> prévoient des bénéfices records en 2022 également ",
                 "cardimg" => "/images/examples/commodities.jpg",
-                "content" => "/markdown/rohstoffhandel.md"
+                "content" => "/markdown/matieres-premieres.md"
             ],
             "defense" => [
-                "title" => "Wie die <b>Schweizer Rüstungsindustrie</b> vom Krieg profitiert",
+                "title" => "Comment <b>l'industrie de l'armement en Suisse</b> profite de la guerre",
                 "cardimg" => "/images/examples/defense.jpg",
-                "content" => "/markdown/ruestungsindustrie.md"
+                "content" => "/markdown/armement.md"
             ],
         ],
-        "readmore" => "Weiterlesen"
+        "readmore" => "Lire la suite"
     ],
     "form" => [
-        "title" => "Hilf mit, damit wir unser Ziel erreichen!",
-        "defaultPrivacy" => "Ich bin einverstanden, dass mich das Komitee auf dem Laufenden hält. <a class=\"underline\" href=\"/privacy\">Mehr dazu in unseren Datenschutzbestimmungen</a>.",
+        "title" => "Aide-nous à atteindre notre objectif !",
+        "defaultPrivacy" => "Je suis d'accord pour que le comité me tienne informé*e. <a class=\"underline\" href=\"/privacy\">Pour en savoir plus, consultez notre politique de confidentialité</a>.",
         "fields" => [
             [
                 "type" => "text",
                 "name" => "data[fname]",
-                "label" => "Vorname",
+                "label" => "Prénom",
                 "required" => true
             ],
             [
                 "type" => "text",
                 "name" => "data[lname]",
-                "label" => "Nachname",
+                "label" => "Nom",
                 "required" => true
             ],
             [
                 "type" => "email",
                 "name" => "email",
-                "label" => "E-Mail Adresse",
+                "label" => "Adresse électronique",
                 "required" => true,
                 "class" => "fullwidth"
             ],
             [
                 "type" => "text",
                 "name" => "data[jobtitle]",
-                "label" => "Beruf, Amt etc.",
+            "label" => "Profession, fonction, etc.",
                 "required" => false,
-                "placeholder" => "optional",
+                "placeholder" => "facultatif",
                 "class" => "fullwidth"
             ],
             [
                 "type" => "text",
                 "name" => "data[zip]",
-                "label" => "Postleitzahl",
+                "label" => "NPA",
                 "required" => false,
-                "placeholder" => "optional"
+                "placeholder" => "facultatif"
             ],
             [
                 "type" => "text",
                 "name" => "data[city]",
-                "label" => "Ort",
+                "label" => "Localité",
                 "required" => false,
-                "placeholder" => "optional"
+                "placeholder" => "facultatif"
             ],
             [
                 "type" => "checkbox",
                 "name" => "public",
-                "label" => "Mein Name darf auf der Website erscheinen.",
+                "label" => "Mon nom peut être publié sur le site web.",
                 "required" => false,
                 "checked" => true,
                 "class" => "fullwidth"
@@ -198,29 +225,30 @@ return [
                 "class" => "fullwidth"
             ]
         ],
-        "open" => "Jetzt unterschreiben!",
-        "close" => "Schliessen",
-        "submit" => "Unterschreiben",
-        "successmessage" => "Vielen Dank für deine Unterschrift! Du erhältst in Kürze eine E-Mail mit einem Bestätigungslink. Bitte klicke auf diesen Link, um deine Unterschrift zu bestätigen.",
-        "errormessage" => "Es ist ein Fehler aufgetreten. Bitte versuche es nochmals!"
+        "open" => "Signer la pétition",
+        "close" => "Fermer le formulaire",
+        "submit" => "Signer",
+        "successmessage" => "Merci pour ta signature ! Tu recevras bientôt un e-mail avec un lien de confirmation. Clique sur ce lien pour confirmer ta signature.",
+        "errormessage" => "Une erreur s'est produite. Veuillez réessayer !"
     ],
     "email" => [
-        "subject" => "Bitte bestätige deine E-Mail Adresse.",
+        "subject" => "Confirme ta signature",
         "from" => [
-            "name" => "Komitee «Kriegsgewinne besteuern»",
+            "name" => "Comité «Taxer les profits de guerre»",
             "address" => env('MAIL_FROM_ADDRESS')
         ]
     ],
     "verification" => [
         "verified" => [
-            "title" => "Vielen Dank!",
-            "text" => "Deine E-Mail Adresse wurde erfolgreich bestätigt und dein Name wird auf der Startseite angezeigt, sofern du dies gewünscht hast.",
-            "tohome" => "Zur Startseite"
+            "title" => "Merci beaucoup !",
+            "text" => "Ton adresse électronique a été confirmée avec succès et ton nom sera affiché sur la page d'accueil si tu l'as souhaité.",
+            "tohome" => "Retour à la page d'accueil"
         ],
         "failed" => [
-            "title" => "Es ist etwas schief gelaufen :(",
-            "text" => "Deine E-Mail Adresse konnte nicht bestätigt werden. Bitte versuche es später noch einmal oder kontaktiere uns!",
-            "tohome" => "Zur Startseite"
+            "title" => "Quelque chose s'est mal passé :(",
+            "text" =>
+            "text" => "Ton adresse e-mail n'a pas pu être confirmée. Merci de réessayer plus tard ou de nous contacter !",
+            "tohome" => "Retour à la page d'accueil"
         ]
     ]
 ];

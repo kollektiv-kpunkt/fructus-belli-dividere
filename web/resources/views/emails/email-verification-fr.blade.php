@@ -1,11 +1,11 @@
-<p>Hallo {{$supporter->data["fname"]}}</p>
-<p>Danke, dass du unseren Brief unterschrieben hast. Bitte bestätige deine E-Mail Adresse, damit wir deinen Namen auf unserer Liste anzeigen können.</p>
+<p>Salut {{$supporter->data["fname"]}}</p>
+<p>Merci d'avoir signé notre lettre. Merci de confirmer ton adresse e-mail afin que nous puissions nous assurer que tu es bien un être humain et non un robot.</p>
 <div class="my-4">
-    <a href="{{__("fbd.site.url")}}/verify/{{$supporter->email_verification_token}}?email={{$supporter->email}}" class="fbd-button">E-Mail Adresse bestätigen</a>
+    <a href="{{__("fbd.site.url")}}/verify/{{$supporter->email_verification_token}}?email={{$supporter->email}}" class="fbd-button">Confirmer l'adresse e-mail</a>
 </div>
-<p>Wenn du nicht weißt, warum du diese E-Mail erhalten hast, kannst du sie einfach ignorieren.</p>
-<p>Nochmals vielen Dank für deine Unterstützung!</p>
+<p>Si tu ne sais pas pourquoi tu as reçu cet e-mail, tu peux simplement l'ignorer.</p>
+<p>Merci encore pour ton soutien !</p>
 <p>
-    Das Komitee «Kriegsgewinne besteuern» <br />
+    Le comité «Taxer les profits de guerre» <br />
     <a href="{{__("fbd.site.url")}}">{{__("fbd.site.url")}}</a>
 </p>

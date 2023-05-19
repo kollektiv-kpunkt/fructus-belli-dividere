@@ -1,0 +1,30 @@
+L'armée de Poutine a été équipée pendant des années avec des biens à double usage provenant de Suisse. Plusieurs entreprises d'armement basées en Suisse en ont largement profité.
+
+La Suisse ne joue pas seulement un rôle important dans le remplissage du trésor de guerre de Poutine. L'armée de Poutine a également été équipée pendant des années avec des biens à double usage suisses. Les biens à double usage peuvent être utilisés à la fois à des fins civiles et militaires. Les entreprises d'armement en Suisse qui fabriquent et exportent de tels biens à double usage en ont massivement profité.
+
+<br>
+
+
+### **Des lacunes pour des moteurs**
+Déjà en 2014, pratiquement plus aucun bien à double usage n'aurait pu être livré à la Russie en raison des sanctions prises après l'annexion de la Crimée. Les sanctions de l'UE à l'encontre de la Russie comprenaient même une interdiction totale d'exporter des biens à double usage à des fins militaires. La Suisse devait s'en assurer par des mesures appropriées. En 2015, le Secrétariat d'État à l'économie (Seco) a interdit l'exportation de machines-outils. La raison invoquée était que celles-ci étaient utilisées à des fins militaires en Russie. Un important lobbying a alors été mis en place du côté bourgeois pour contrer cette décision.
+
+Pour le secteur suisse de la construction mécanique, la Russie était un marché en pleine croissance. Après l'effondrement des exportations, des représentant.es de l'industrie suisse des machines sont intervenu.es. Ils ont exigé que la pratique d'exportation soit assouplie. En décembre 2015, Mme Keller-Sutter, alors conseillère aux États saint-galloise, a donc déposé une intervention dans laquelle elle critiquait "l'interdiction de facto d'exporter" des biens à double usage et soulignait les dommages causés à la place industrielle suisse. Ainsi, elle demandait dans cette intervention un assouplissement en faveur des entreprises suisses concernées et donc par conséquent un assouplissement en faveur de l'armée de l'air de Poutine également. La moitié du Conseil des Etats a signé l'intervention.
+
+En 2016, le Conseil fédéral a finalement cédé avec la justification suivante : Lors de l'évaluation des demandes d'exportation vers la Russie, il ne doit pas y avoir de "critères d'examen idéologiques". A partir de ce moment-là, le Secrétariat d'Etat à l'économie (Seco) a autorisé pratiquement tous les biens à double usage à être exportés vers la Russie. Entre début 2016 et fin 2021, cela représentait au total environ 1300 produits pouvant être utilisés à des fins civiles et militaires. Parmi ces exportations figuraient également quelque 120 machines spéciales d'entreprises suisses de construction, qui permettent de fraiser et de polir avec une grande précision. Ces machines sont notamment utilisées pour la fabrication de moteurs d'avions - civils et militaires. Il est donc possible que ces machines spéciales suisses aient également été utilisées en Russie pour la fabrication de moteurs d'avions militaires. Des avions que l'armée de l'air russe utilise actuellement dans la guerre en Ukraine. Le problème, c'est que les autorités ne peuvent guère le vérifier.
+
+<br>
+
+### **Profiter de l'armement de Poutine**
+Jusqu'au 4 mars 2022, date à laquelle la Suisse a repris les sanctions de l'UE contre la Russie, les machines-outils qui n'étaient pas déclarées comme biens à double usage pouvaient être exportées, négociées et vendues en Russie sans restrictions légales. Depuis, elles figurent sur les listes de sanctions et sont interdites à l'exportation vers la Russie. Jusqu'à cette date, plusieurs entreprises suisses ont profité de ces lacunes. Une recherche d'Inform Napalm, dans laquelle des journalistes, des expert.es et des activistes ont examiné les marchés publics russes, montre que plusieurs livraisons suisses sont tombées dans les mains d'entreprises d'armement russes. Ils dressent la liste de cinq entreprises suisses : GF Machining Solutions, Fritz Studer AG, Codere SA, Sylvac SA et Galika AG. Cette dernière a joué un rôle d'intermédiaire dans plusieurs opérations d'exportation avec les autres entreprises citées.
+
+L'exemple suivant permet de montrer comment Galika SA profite concrètement de la guerre en Ukraine : Les autorités fiscales russes ont répertorié au moins huit entreprises liées à Swiss Galika SA en Russie. L'une d'entre elles est Galika-Met, enregistrée dans la banlieue de Moscou. Selon un appel d'offres public russe, l'entreprise aurait livré, monté et mis en service des équipements techniques de la société suisse GF Machining Solutions jusqu'au 1er mai 2022. Le contrat portait sur 407 millions de roubles russes, ce qui correspond à environ 4,7 millions de francs suisses. Le client est le fabricant de moteurs Kouznetsov, appartenant au groupe russe Rostech - la plus grande entreprise de conception de moteurs d'avion en Russie.
+
+Ainsi, les entreprises suisses ont armé Poutine grâce au lobbying du Parlement suisse. La valeur de ces biens à double usage exportés n’est pas anecdotique. Entre 2016 et 2021, ce sont pour 16,5 milliards de francs de biens à double usage qui ont été exportés de Suisse. Les exportations suisses de matériel de guerre classique se sont élevées à 3,7 milliards de francs durant cette période. Pendant des années, les entreprises d'armement basées en Suisse ont donc profité des plans guerriers de Poutine et de l'indifférence des partis bourgeois. Aujourd'hui, la Suisse a la responsabilité et le devoir d'aider l'Ukraine. Un moyen d'y parvenir serait de taxer davantage les bénéfices des profiteurs de guerre qui ont contribué à alimenter la guerre et de les affecter à la reconstruction de l'Ukraine.
+
+<br>
+
+*Sources :*<br>
+https://informnapalm.org/at/unternehmen/<br>
+https://www.woz.ch/2234/dual-use-gueter/werkzeuge-fuer-putins-krieg<br>
+https://12ft.io/proxy?&q=https%3A%2F%2Fwww.nzz.ch%2Fwirtschaft%2Fukraine-krieg-schweizer-dual-use-maschinen-fuer-russlands-ruestung-ld.1700234<br>
+https://www.republik.ch/2022/03/05/wie-die-schweiz-ihrem-besten-ruf-gerecht-werden-wollte-aber-ihr-schlechtestes-bild-abgab<br>
