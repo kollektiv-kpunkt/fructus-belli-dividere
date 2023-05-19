@@ -7,7 +7,7 @@
 return [
     "site" => [
         "title" => "Taxer les profits de guerre ! SIGNER MAINTENANT !",
-        "url" => "https://profitesdeguerre.ch",
+        "url" => "https://profitsdeguerre.ch",
         "description" => "La guerre en Ukraine génère des milliards de bénéfices pour les groupes de matières premières comme Glencore, Trafigura et autres. Aidez-nous à faire entendre notre cause en signant la lettre ouverte."
     ],
     "heroine" => [
