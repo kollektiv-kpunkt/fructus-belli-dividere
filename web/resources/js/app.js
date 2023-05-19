@@ -1,4 +1,5 @@
 import './bootstrap';
+import './utils/vh.js';
 import './elements/supporterlist.js';
 import './elements/questions.js';
 import './elements/progressbar.js';

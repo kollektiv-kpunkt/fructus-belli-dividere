@@ -37,9 +37,7 @@ Route::middleware(["auth", "verified"])->prefix("admin")->group(function() {
     })->name("dashboard");
 });
 
-Route::resource('supporters', SupporterController::class)->only([
-    'store'
-]);
+Route::post('supporters', [SupporterController::class, 'storeFromPetition'])->name('supporters.storeFromPetition');
 
 Route::get("/verify/{token}", function($token){
     $verified = Supporter::verify($_GET["email"], $token);

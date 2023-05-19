@@ -16,6 +16,7 @@ class Supporter extends Model
 
     protected $fillable = [
         'email',
+        'source',
         'optin',
         'data',
         'status',

@@ -36,23 +36,7 @@ class SupporterController extends Controller
      */
     public function store(Request $request)
     {
-        $validated = $request->validate([
-            'email' => 'required|email|unique:supporters,email',
-            "data" => "required|array",
-            "optin" => "",
-            "source" => "",
-            "public" => "",
-            "status" => ""
-        ]);
-        if (env("SUPP_EMAIL_VERIFICATION")) {
-            $validated["email_verification_token"] = Str::random(32);
-        }
-        $supporter = Supporter::create($validated);
-        if (env("SUPP_EMAIL_VERIFICATION")) {
-            $supporter->sendEmailVerificationNotification();
-        }
-        $request->session()->flash('success', true);
-        return redirect()->route("landing");
+        //
     }
 
     /**
@@ -98,5 +82,32 @@ class SupporterController extends Controller
     public function destroy(Supporter $supporter)
     {
         //
+    }
+
+    /**
+     * Store a new supporter from the frontend petition form
+     *
+     * @param \Illuminate\Http\Request $request
+     * @return \Illuminate\Http\Response
+     */
+    public function storeFromPetition(Request $request)
+    {
+        $validated = $request->validate([
+            'email' => 'required|email|unique:supporters,email',
+            "data" => "required|array",
+            "optin" => "",
+            "source" => "",
+            "public" => "",
+            "status" => ""
+        ]);
+        if (env("SUPP_EMAIL_VERIFICATION")) {
+            $validated["email_verification_token"] = Str::random(32);
+        }
+        $supporter = Supporter::create($validated);
+        if (env("SUPP_EMAIL_VERIFICATION")) {
+            $supporter->sendEmailVerificationNotification();
+        }
+        $request->session()->flash('success', true);
+        return redirect()->route("landing");
     }
 }
