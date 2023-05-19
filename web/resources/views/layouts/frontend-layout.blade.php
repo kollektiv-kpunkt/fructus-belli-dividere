@@ -10,6 +10,8 @@
             <title>{{__("fbd.site.title")}}</title>
         @endif
 
+        <x-OG />
+
         @vite("resources/css/app.scss")
     </head>
 

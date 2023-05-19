@@ -6,8 +6,9 @@
 
 return [
     "site" => [
-        "title" => "Kriegsgewinne besteuern!",
+        "title" => "Kriegsgewinne besteuern! JETZT UNTERSCHREIBEN!",
         "url" => "https://kriegsgewinne.ch",
+        "description" => "Der Ukraine-Krieg führt für Rohstoffkonzerne wie Glencore, Trafigura und Co. zu Milliardengewinnen. Helfen Sie mit, unserem Anliegen Gehör zu verschaffen und unterzeichnen Sie den offenen Brief mit."
     ],
     "heroine" => [
         "title" => "Kriegsgewinne besteuern!",
