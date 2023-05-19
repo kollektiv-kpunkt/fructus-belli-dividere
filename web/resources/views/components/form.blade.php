@@ -9,7 +9,7 @@
                     <x-form-field :name="$field['name']" :label="$field['label']" :placeholder="$field['placeholder'] ?? ''" :required="$field['required']" :type="$field['type']" :checked="$field['checked'] ?? false" :classes="$field['class'] ?? false" />
                 @endforeach
                 @csrf
-                <input type="hidden" name="source" value="{{$_COOKIE['fbd-source'] ?? ""}}">
+                <input type="hidden" name="source" value="{{$_COOKIE['fbd_source'] ?? ""}}">
                 <button type="submit" class="fbd-button w-full flex justify-center items-center gap-x-2 mt-2">{{__("fbd.form.submit") }} <x-application-logo class="!fill-white w-4"/></button>
             </form>
         </div>
