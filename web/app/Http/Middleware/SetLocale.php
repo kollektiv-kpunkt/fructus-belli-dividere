@@ -21,7 +21,9 @@ class SetLocale
         $available_locales = ["de", "fr"];
         $domains = [
             "kriegsgewinne.ch" => "de",
+            "www.kriegsgewinne.ch" => "de",
             "profitsdeguerre.ch" => "fr",
+            "www.profitsdeguerre.ch" => "fr",
             "pn81.victorinus.ch" => "de",
             "fr.pn81.victorinus.ch" => "fr",
             "pn81.ddev.site" => "de",

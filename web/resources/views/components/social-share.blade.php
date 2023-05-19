@@ -6,6 +6,7 @@
             $shareTitle = urlencode(__("fbd.share.sharetitle"));
             $shareTitleEmail = str_replace("+", "%20", $shareTitle);
             $shareText = urlencode(__("fbd.share.text"));
+            $shareTweet = urlencode(__("fbd.share.tweet"));
             $shareTextEmail = str_replace("+", "%20", $shareText);
             $sep = urlencode("\n");
         @endphp
@@ -16,16 +17,16 @@
                     $sharerUrl = "https://www.facebook.com/sharer/sharer.php?u={$shareUrl}";
                     break;
                 case "twitter":
-                    $sharerUrl = "https://twitter.com/intent/tweet?text={$shareText}{$sep}&url={$shareUrl}";
+                    $sharerUrl = "https://twitter.com/intent/tweet?text={$shareTweet}";
                     break;
                 case "whatsapp":
-                    $sharerUrl = "https://api.whatsapp.com/send?text={$shareText}{$sep}{$shareUrl}";
+                    $sharerUrl = "https://api.whatsapp.com/send?text={$shareText}";
                     break;
                 case "telegram":
                     $sharerUrl = "https://t.me/share/url?url={$shareUrl}&text={$shareText}";
                     break;
                 case "email":
-                    $sharerUrl = "mailto:?subject={$shareTitleEmail}&body={$shareTextEmail}{$sep}{$shareUrl}";
+                    $sharerUrl = "mailto:?subject={$shareTitleEmail}&body={$shareTextEmail}";
                     break;
             endswitch;
         @endphp
