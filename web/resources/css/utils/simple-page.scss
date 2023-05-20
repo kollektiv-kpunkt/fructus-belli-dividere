@@ -1,0 +1,22 @@
+.fbd-simple-page {
+    &__heroine {
+        --ribbon-color: theme('colors.secondary.DEFAULT');
+        background-color: theme('colors.secondary.DEFAULT');
+        padding-top: calc(var(--navheight) + 2.5rem);
+        @apply text-2xl md:text-5xl font-black pb-6 text-accent;
+    }
+
+    &__content {
+        ul {
+            @apply list-disc list-outside ml-6 my-6;
+
+            li+li {
+                @apply mt-1;
+            }
+        }
+
+        a {
+            @apply text-accent underline;
+        }
+    }
+}

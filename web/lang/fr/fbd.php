@@ -223,5 +223,9 @@ return [
             "text" => "Ton adresse e-mail n'a pas pu être confirmée. Merci de réessayer plus tard ou de nous contacter !",
             "tohome" => "Retour à la page d'accueil"
         ]
+    ],
+    "pagetitles" => [
+        "privacy" => "Protections des données",
+        "imprint" => "Mentions légales"
     ]
 ];
