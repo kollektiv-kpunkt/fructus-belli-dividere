@@ -6,7 +6,7 @@ $supporterCount = supporterCount();
  * @param int $goal
  * @return int
  */
-function setGoal($supporterCount, $goal = 1000 ) {
+function setGoal($supporterCount, $goal = 500 ) {
     if ($goal >= 20000) {
         return 20000;
     }
