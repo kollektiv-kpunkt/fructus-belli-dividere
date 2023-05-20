@@ -10,6 +10,7 @@
                 @endforeach
                 @csrf
                 <input type="hidden" name="source" value="{{$_COOKIE['fbd_source'] ?? ""}}">
+                <input type="hidden" name="locale" value="{{app()->getLocale()}}">
                 <button type="submit" class="fbd-button w-full flex justify-center items-center gap-x-2 mt-2">{{__("fbd.form.submit") }} <x-application-logo class="!fill-white w-4"/></button>
             </form>
         </div>

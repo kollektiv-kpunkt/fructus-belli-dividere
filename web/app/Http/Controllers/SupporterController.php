@@ -96,6 +96,7 @@ class SupporterController extends Controller
             'email' => 'required|email|unique:supporters,email',
             "data" => "required|array",
             "optin" => "",
+            "locale" => "",
             "source" => "",
             "public" => "",
             "status" => ""

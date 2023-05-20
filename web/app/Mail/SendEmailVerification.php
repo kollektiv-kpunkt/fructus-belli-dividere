@@ -48,7 +48,7 @@ class SendEmailVerification extends Mailable
     public function content()
     {
         return new Content(
-            view: 'emails.email-verification-' . app()->getLocale(),
+            view: 'emails.email-verification-' . $this->supporter->locale,
             with: [
                 "supporter" => $this->supporter
             ]

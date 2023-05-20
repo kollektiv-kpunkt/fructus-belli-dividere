@@ -39,6 +39,8 @@
                 {!! $render !!}
             @endforeach
         </div>
-        <button class="absolute z-10 bottom-0 underline fbd-supporters__showall">{{supporters()->count() - 50}} {{__("fbd.supporters.showall")}}</button>
+        @if (supporters()->count() > 50)
+            <button class="absolute z-10 bottom-0 underline fbd-supporters__showall">{{supporters()->count() - 50}} {{__("fbd.supporters.showall")}}</button>
+        @endif
     </div>
 </div>

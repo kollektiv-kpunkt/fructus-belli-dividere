@@ -18,6 +18,7 @@ class Supporter extends Model
         'email',
         'source',
         'optin',
+        'locale',
         'data',
         'status',
         'public',
