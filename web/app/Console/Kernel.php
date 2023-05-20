@@ -16,6 +16,7 @@ class Kernel extends ConsoleKernel
     protected function schedule(Schedule $schedule)
     {
         $schedule->command('supporters:resend-verification-emails')->dailyAt('10:00');
+        $schedule->command('supporters:log')->everyMinute();
     }
 
     /**
