@@ -29,7 +29,7 @@ Route::prefix("supporters")->group(function() {
         ]);
     });
 
-    Route::get("/timeseries", function() {
+    Route::get("timeseries", function() {
         $timeseries = DB::table("timeseries")->get();
         return response()->json([
             "timeseries" => $timeseries,
