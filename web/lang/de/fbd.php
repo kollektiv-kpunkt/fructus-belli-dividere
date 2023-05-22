@@ -8,11 +8,11 @@ return [
     "site" => [
         "title" => "Kriegsgewinne besteuern! JETZT UNTERSCHREIBEN!",
         "url" => "https://kriegsgewinne.ch",
-        "description" => "Der Ukraine-Krieg führt für Rohstoffkonzerne wie Glencore, Trafigura und Co. zu Milliardengewinnen. Helfen Sie mit, unserem Anliegen Gehör zu verschaffen und unterzeichnen Sie den offenen Brief mit."
+        "description" => "Der Ukrainekrieg führt für Rohstoffkonzerne wie Glencore, Trafigura und Co. zu Milliardengewinnen. Helfen Sie mit und unterzeichnen Sie den offenen Brief mit."
     ],
     "heroine" => [
         "title" => "Kriegsgewinne besteuern!",
-        "lead" => "Der Ukraine-Krieg führt für Rohstoffkonzerne wie Glencore, Trafigura und Co. zu Milliardengewinnen. Vor Kriegsausbruch wurden bis zu 60% des russischen Erdöls und 75% der russischen Kohle über die Schweiz gehandelt. Die Schweiz trägt somit als Drehscheibe russischer Energieträger eine historische Verantwortung. Mit einer Kriegsgewinnsteuer auf Übergewinne von Rohstoffhändlern kann sie einen wichtigen Beitrag für den Wiederaufbau der Ukraine leisten. Mit diesem offenen Brief wollen Vertreter*innen der Zivilgesellschaft das Parlament dazu auffordern, eine Kriegsgewinnsteuer einzuführen. <b>Helfen Sie mit, unserem Anliegen Gehör zu verschaffen und unterzeichnen Sie den offenen Brief mit.</b>",
+        "lead" => "Der Ukrainekrieg führt für Rohstoffkonzerne wie Glencore, Trafigura und Co. zu Milliardengewinnen. Vor Kriegsausbruch wurden bis zu 60% des russischen Erdöls und 75% der russischen Kohle über die Schweiz gehandelt. Die Schweiz trägt somit als Drehscheibe russischer Energieträger eine historische Verantwortung. Mit einer Kriegsgewinnsteuer auf Übergewinne von Rohstoffhändlern kann sie einen wichtigen Beitrag für den Wiederaufbau der Ukraine leisten. Mit diesem offenen Brief fordern Vertreter*innen der Zivilgesellschaft das Parlament dazu auf, eine Kriegsgewinnsteuer einzuführen. <b>Helfen Sie mit und unterzeichnen Sie den offenen Brief mit.</b>",
         "demands" => [
             "title" => "Wir fordern:",
             "items" => [
@@ -39,7 +39,7 @@ return [
         "title" => "Teile unseren offenen Brief!",
         "sharetitle" => "Kriegsgewinne besteuern!",
         "text" => <<<EOD
-        Hoi 🙋\n\nHast du gewusst, dass Rohstoffkonzerne wie Glencore aufgrund des Ukraine-Krieges Milliardengewinne machen? Ich habe gerade einen offenen Brief an das Schweizer Parlament unterschrieben, der fordert, dass diese Kriegsgewinne besteuert werden und für den Wiederaufbau in der Ukraine verwendet werden. Unterschreibst du auch?\n👉 www.kriegsgewinne.ch
+        Hoi 🙋\n\nHast du gewusst, dass Rohstoffkonzerne wie Glencore aufgrund des Ukraine-Krieges Milliardengewinne machen? Ich habe gerade einen offenen Brief an das Schweizer Parlament unterschrieben, der fordert, dass diese Kriegsgewinne zusätzlich besteuert werden und für den Wiederaufbau in der Ukraine verwendet werden. Unterschreibst du auch?\n👉 www.kriegsgewinne.ch
         EOD,
         "tweet" => <<<EOD
         Ich habe gerade einen offenen Brief an das Schweizer Parlament unterschrieben, der fordert, dass #Kriegsgewinne von Schweizer Unternehmen besteuert werden und für den Wiederaufbau in der #Ukraine 🇺🇦 verwendet werden. Unterschreibst du auch?\n👉 www.kriegsgewinne.ch
@@ -70,15 +70,15 @@ return [
             ],
             [
                 "question" => "Wieso profitieren ausgerechnet Rohstoffhändler in Krisenzeiten?",
-                "answer" => "Die zentrale Stellung der Händler zwischen Rohstoffangebot und -nachfrage, gepaart mit ihrem globalen Logistiknetzwerk, Finanzierungsmöglichkeiten und exklusivem Zugang zu Marktinformationen machen die Händler gerade in Krisenzeiten äusserts profitabel. Aus Krisen, in denen Millionen von Menschen von Hunger bedroht sind, in die absolute Armut rutschen und akuter Versorgungsunsicherheit leiden, Profit zu schlagen, ist zynisch. Die Versorgung mit Rohstoffen ist wichtig; eine Verzehnfachung des Profits in Krisenzeiten ist jeodch illegitim."
+                "answer" => "Die zentrale Stellung der Händler zwischen Rohstoffangebot und -nachfrage, gepaart mit ihrem globalen Logistiknetzwerk, Finanzierungsmöglichkeiten und exklusivem Zugang zu Marktinformationen machen die Händler gerade in Krisenzeiten äusserts profitabel. Aus Krisen, in denen Millionen von Menschen von Hunger bedroht sind, in die absolute Armut rutschen und akuter Versorgungsunsicherheit leiden, Profit zu schlagen, ist zynisch. Die Versorgung mit Rohstoffen ist wichtig; eine Verzehnfachung des Profits in Krisenzeiten ist jedoch illegitim."
             ],
             [
                 "question" => "Was hat die Schweiz mit den Kriegsprofiten der Rohstoffhändler zu tun?",
-                "answer" => "Die Schweiz ist der grösste Rohstoffhandelsplatz der Welt. Alle global relevanten Rohstoffhändler haben entweder ihren Hauptsitz oder wichtige Handelsbüros hierzulande. Über diese Händler werden Schätzungen von Public Eye zufolge mindestens 50% des Getreides, 40% der Kohle, jedes dritte Fass Rohöl, jede zweite Kaffee- und jede dritte Kakaobohne gehandelt. Die Rohstoffhändler erwirtschaften mit ihren Handelstätigkeiten aus der Schweiz einen grossen Teil ihres Umsatzes. Die Schweiz lockt die Händler seit jeher mit ihrer Tiefsteuerpolitik und massgeschneiderten Steuerdeals an und ist daher als Sitzstaat dieser so hochprofitablen wie verschwiegenen Branche mitverantwortlich für deren Kriegsprofite. Zudem sind Rohstoffhändler im Gegensatz zu den Rohstoffförder- und Energiefirmen in der EU-Regelung (siehe Frage 6) nicht eingeschlossen sind. Die Schweiz kann dies korrigieren, indem sie die Rohstoffhändler einer Übergewinnsteuer unterstellt und so verhindert, dass sie zum Schlupfloch für Kriegsgewinne wird."
+                "answer" => "Die Schweiz ist der grösste Rohstoffhandelsplatz der Welt. Alle global relevanten Rohstoffhändler haben entweder ihren Hauptsitz oder wichtige Handelsbüros hierzulande. Über diese Händler werden Schätzungen von Public Eye zufolge mindestens 50% des Getreides, 40% der Kohle, jedes dritte Fass Rohöl, jede zweite Kaffee- und jede dritte Kakaobohne gehandelt. Die Rohstoffhändler erwirtschaften mit ihren Handelstätigkeiten aus der Schweiz einen grossen Teil ihres Umsatzes. Die Schweiz lockt die Händler seit jeher mit ihrer Tiefsteuerpolitik und massgeschneiderten Steuerdeals an und ist daher als Sitzstaat dieser so hochprofitablen wie verschwiegenen Branche mitverantwortlich für deren Kriegsprofite. Zudem sind Rohstoffhändler im Gegensatz zu den Rohstoffförder- und Energiefirmen in der EU-Regelung (siehe unten) nicht eingeschlossen. Die Schweiz kann dies korrigieren, indem sie die Rohstoffhändler einer Übergewinnsteuer unterstellt und so verhindert, dass sie zum Schlupfloch für Kriegsgewinne wird."
             ],
             [
                 "question" => "Wieso sollen die Einnahmen der Übergewinnsteuer in den Wiederaufbau der Ukraine fliessen?",
-                "answer" => "Mehr als ein Drittel der russischen Staatseinnahmen stammten vor Kriegsausbruch aus Einnahmen von Öl und Gas. Schätzungsweise wurden 2021 zwischen 50 und 60 Prozent des russischen Erdöls und 75 Prozent der russischen Kohle über Genf, Zug, Lugano und Zürich gehandelt. Die Schweiz trägt als Drehscheibe russischer Energieträger somit eine historische und politische Verantwortung an diesem Krieg und steht der Ukraine gegenüber in der Schuld. Die Kosten für den Wiederaufbau wurden Ende 2022 auf 750 Milliarden Franken geschätzt. Mit einer temporären Kriegsgewinnsteuer könnte die Schweiz einen wichtigen Beitrag dazu leisten, Kriegsgewinne gerecht zu verteilen."
+                "answer" => "Mehr als ein Drittel der russischen Staatseinnahmen stammten vor Kriegsausbruch aus Geschäften mit Öl und Gas. Schätzungsweise wurden 2021 zwischen 50 und 60 Prozent des russischen Erdöls und 75 Prozent der russischen Kohle über Genf, Zug, Lugano und Zürich gehandelt. Die Schweiz trägt als Drehscheibe russischer Energieträger somit eine historische und politische Verantwortung an diesem Krieg und steht der Ukraine gegenüber in der Schuld. Die Kosten für den Wiederaufbau wurden Ende 2022 auf 750 Milliarden Franken geschätzt. Mit einer temporären Kriegsgewinnsteuer könnte die Schweiz einen wichtigen Beitrag dazu leisten, Kriegsgewinne gerecht zu verteilen."
             ],
             [
                 "question" => "Haben bereits andere Länder eine Übergewinnsteuer eingeführt?",
@@ -122,7 +122,7 @@ return [
         ]
     ],
     "examples" => [
-        "title" => "Beispiele aus der Wirtschaft",
+        "title" => "Die grössten Krisenprofiteure",
         "examples" => [
             "commodities" => [
                 "title" => "<b>Schweizer Rohstoffhändler</b> auch 2022 mit Rekordgewinnen",
@@ -163,7 +163,7 @@ return [
             [
                 "type" => "text",
                 "name" => "data[jobtitle]",
-                "label" => "Beruf, Amt etc.",
+                "label" => "Organisation, Amt etc.",
                 "required" => false,
                 "placeholder" => "optional",
                 "class" => "fullwidth"
