@@ -35,6 +35,14 @@ return [
             "https://taz.de/Konferenz-zur-Ukraine-Hilfe/!5890061/"
         ]
     ],
+    "pressrelease" => [
+        "live" => "1",
+        "subtitle" => "Aktuell: Medienmitteilung vom 24. Mai",
+        "title" => "WAK-N lehnt Kriegsgewinnsteuer ab",
+        "content" => "Die Kommission für Wirtschaft und Abgaben hat in ihrer Sitzung vom 22. Mai die parlamentarische Initiative <a class=\"underline italic\" target=\"_blank\" href=\"https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220457\">«Kriegsgewinne mit einer Windfall Profit Tax besteuern»</a> besprochen und abgelehnt. Diese Initiative fordert, dass Übergewinne im Zusammenhang mit dem Ukrainekrieg mit einem höheren Steuersatz belegt werden. Wir haben dazu Stellung genommen. <b>Lesen Sie hierzu unsere Medienmitteilung.</b>",
+        "link" => "https://kriegsgewinne.ch/medienmitteilung",
+        "button" => "Medienmitteilung lesen"
+    ],
     "share" => [
         "title" => "Teile unseren offenen Brief!",
         "sharetitle" => "Kriegsgewinne besteuern!",
@@ -42,7 +50,7 @@ return [
         Hoi 🙋\n\nHast du gewusst, dass Rohstoffkonzerne wie Glencore aufgrund des Ukrainekrieges Milliardengewinne machen? Ich habe gerade einen offenen Brief an das Schweizer Parlament unterschrieben, der fordert, dass diese Kriegsgewinne zusätzlich besteuert werden und für den Wiederaufbau in der Ukraine verwendet werden. Unterschreibst du auch?\n👉 www.kriegsgewinne.ch
         EOD,
         "tweet" => <<<EOD
-        Ich habe gerade einen offenen Brief an das Schweizer Parlament unterschrieben, der fordert, dass #Kriegsgewinne von Schweizer Unternehmen besteuert werden und für den Wiederaufbau in der #Ukraine 🇺🇦 verwendet werden. Unterschreibst du auch?\n👉 www.kriegsgewinne.ch
+        Ich habe gerade einen offenen Brief an das Schweizer Parlament unterschrieben, der fordert, dass #Kriegsgewinne von Schweizer Unternehmen zusätzlich besteuert werden und für den Wiederaufbau in der #Ukraine 🇺🇦 verwendet werden. Unterschreibst du auch?\n👉 www.kriegsgewinne.ch
         EOD,
         "buttons" => [
             "whatsapp" => "Auf WhatsApp teilen",

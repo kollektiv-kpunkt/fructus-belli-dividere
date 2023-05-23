@@ -6,8 +6,8 @@ $supporterCount = supporterCount();
  * @param int $goal
  * @return int
  */
-function setGoal($supporterCount, $goal = 500 ) {
-    if ($goal >= 20000) {
+function setGoal($supporterCount, $goal = 200 ) {
+    if ($goal >= 26000) {
         return 20000;
     }
     if ($supporterCount >= $goal * 0.75) {
@@ -42,7 +42,7 @@ $progress = $progress > 100 ? 100 : $progress;
     </div>
     <div class="fbd-progress-bar__wrapper h-6 rounded-full w-full bg-secondary flex p-1">
         <div class="fbd-progress-bar__inner w-0 h-full bg-accent rounded-full flex justify-center items-center">
-            <span class="text-2xs text-white opacity-0">0%</span>
+            <span class="text-2xs text-white opacity-0 whitespace-nowrap">0%</span>
         </div>
     </div>
     <div class="fbd-progressbar__count text-end">

@@ -17,7 +17,7 @@ window.addEventListener("load", function () {
         let counter = new CountUp(text, progress, {
             duration: 2,
             useEasing: true,
-            suffix: " %",
+            suffix: "%",
             decimalPlaces: duration / 1000,
             useGrouping: true,
             decimal: ".",

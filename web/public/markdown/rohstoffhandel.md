@@ -11,3 +11,5 @@ Global bedeutende Agrarrohstoffhändler wie Cargill, Archer Daniels Midland (ADM
     <div class="flourish-embed flourish-chart" data-src="visualisation/13696030"></div>
     <figcaption><a href="https://www.publiceye.ch/de/themen/agrarrohstoffhandel/krieg-und-krisen-und-die-rohstoffhaendler-machen-rekordgewinne" target="_blank">© 2023, PublicEye</a></figcaption>
 </figure>
+
+<a href="https://www.publiceye.ch/de/themen/agrarrohstoffhandel/krieg-und-krisen-und-die-rohstoffhaendler-machen-rekordgewinne" class="fbd-button block w-fit mt-4" target="_blank">Lesen Sie hier die ganze Reportage</a>

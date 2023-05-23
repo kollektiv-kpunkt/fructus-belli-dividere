@@ -35,14 +35,22 @@ return [
             "https://taz.de/Konferenz-zur-Ukraine-Hilfe/!5890061/"
         ]
     ],
+    "pressrelease" => [
+        "live" => "0",
+        "subtitle" => "Actualité : Communiqué de presse",
+        "title" => "CER-N rejette l'impôt sur les bénéfices de guerre",
+        "content" => "Lors de sa séance du 22 mai, la Commission de l'économie et des redevances a discuté et rejeté l'initiative parlementaire <a class=\"underline italic\" target=\"_blank\" href=\"https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220457\">«Imposer les bénéfices de guerre exceptionnels»</a>. Cette initiative demande que les bénéfices excédentaires liés à la guerre en Ukraine soient soumis à un taux d'imposition plus élevé. Nous avons pris position à ce sujet. <b>Lisez à ce propos notre communiqué de presse.</b>",
+        "link" => "https://kriegsgewinne.ch/medienmitteilung",
+        "button" => "Lire le communiqué de presse"
+    ],
     "share" => [
-        "title" => "Teile unseren offenen Brief!",
-        "sharetitle" => "Kriegsgewinne besteuern!",
+        "title" => "Partage notre lettre ouverte !",
+        "sharetitle" => "Taxer les profits de guerre !",
         "text" => <<<EOD
-        Salut 🙋\n\nSavais-tu que les entreprises de matières premières comme Glencore réalisent des milliards de bénéfices en conséquence de la guerre en Ukraine ? Je viens de signer une lettre ouverte au Parlement suisse demandant que ces bénéfices de guerre soient imposés et utilisés pour la reconstruction de l'Ukraine. Est-ce que tu vas aussi signer ?\n👉 www.profitsdeguerre.ch
+        Salut 🙋\n\nSavais-tu que les entreprises de matières premières comme Glencore réalisent des milliards de bénéfices en conséquence de la guerre en Ukraine ? Je viens de signer une lettre ouverte au Parlement suisse demandant que ces bénéfices de guerre soient soumis à un impôt supplémentaire et utilisés pour la reconstruction de l'Ukraine. Est-ce que tu vas aussi signer ?\n👉 www.profitsdeguerre.ch
         EOD,
         "tweet" => <<<EOD
-        Je viens de signer une lettre ouverte au Parlement suisse demandant que les #profitsDeGuerre des entreprises suisses soient imposés et utilisés pour la reconstruction de l'#Ukraine 🇺🇦. Signez-vous aussi?\n👉 www.profitsdeguerre.ch
+        Je viens de signer une lettre ouverte au Parlement suisse demandant que ces bénéfices de guerre soient soumis à un impôt supplémentaire et utilisés pour la reconstruction de l'Ukraine. Est-ce que tu vas aussi signer ?\n👉 www.profitsdeguerre.ch
         EOD,
         "buttons" => [
             "whatsapp" => "Partager sur WhatsApp",
