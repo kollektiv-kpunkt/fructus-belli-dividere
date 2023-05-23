@@ -1,5 +1,5 @@
 <span class="text-xl font-bold">Chers Conseillers nationaux, chères Conseillères nationales,</span>
-<span class="text-xl font-bold">Chers Conseillers aux états, chères Conseillères aux états</span>
+<span class="text-xl font-bold">Chers Conseillers aux États, chères Conseillères aux États</span>
 
 Depuis plus d'une année, l'Europe est en guerre. Poutine et son régime infligent des souffrances inimaginables à l'Ukraine. En ces temps de crise, nous parlons souvent de solidarité, mais bien trop peu de responsabilité. Alors que les prix de l'énergie et des denrées alimentaires augmentent, une poignée d'entreprises profitent de ces temps de crise.
 
