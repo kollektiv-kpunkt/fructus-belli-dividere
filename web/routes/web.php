@@ -21,7 +21,7 @@ Route::get('/', function () {
 })->name('landing');
 
 Route::get("s/{source}", function($source) {
-    setcookie("fbd_source", $source, time() + (86400 * 30), "/");
+    setcookie("fbd_source", $source, time() + (86400 * 5), "/");
     return redirect("/");
 });
 
