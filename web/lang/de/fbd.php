@@ -36,11 +36,11 @@ return [
         ]
     ],
     "pressrelease" => [
-        "live" => "0",
+        "live" => "1",
         "subtitle" => "Aktuell: Medienmitteilung vom 24. Mai",
         "title" => "WAK-N lehnt Kriegsgewinnsteuer ab",
         "content" => "Die Kommission für Wirtschaft und Abgaben hat in ihrer Sitzung vom 22. Mai die parlamentarische Initiative <a class=\"underline italic\" target=\"_blank\" href=\"https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220457\">«Kriegsgewinne mit einer Windfall Profit Tax besteuern»</a> besprochen und abgelehnt. Diese Initiative fordert, dass Übergewinne im Zusammenhang mit dem Ukrainekrieg mit einem höheren Steuersatz belegt werden. Wir haben dazu Stellung genommen. <b>Lesen Sie hierzu unsere Medienmitteilung.</b>",
-        "link" => "https://kriegsgewinne.ch/medienmitteilung",
+        "link" => "https://kriegsgewinne.ch/media/Medienmitteilung der Allianz für eine Kriegsgewinnsteuer.pdf",
         "button" => "Medienmitteilung lesen"
     ],
     "share" => [

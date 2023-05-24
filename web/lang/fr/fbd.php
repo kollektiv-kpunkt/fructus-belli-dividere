@@ -36,11 +36,11 @@ return [
         ]
     ],
     "pressrelease" => [
-        "live" => "0",
+        "live" => "1",
         "subtitle" => "Actualité : Communiqué de presse",
         "title" => "CER-N rejette l'impôt sur les bénéfices de guerre",
         "content" => "Lors de sa séance du 22 mai, la Commission de l'économie et des redevances a discuté et rejeté l'initiative parlementaire <a class=\"underline italic\" target=\"_blank\" href=\"https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220457\">«Imposer les bénéfices de guerre exceptionnels»</a>. Cette initiative demande que les bénéfices excédentaires liés à la guerre en Ukraine soient soumis à un taux d'imposition plus élevé. Nous avons pris position à ce sujet. <b>Lisez à ce propos notre communiqué de presse.</b>",
-        "link" => "https://kriegsgewinne.ch/medienmitteilung",
+        "link" => "https://kriegsgewinne.ch/media/Communiqué de presse de lalliance.pdf",
         "button" => "Lire le communiqué de presse"
     ],
     "share" => [
