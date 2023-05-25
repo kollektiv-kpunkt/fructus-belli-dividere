@@ -29,7 +29,7 @@ class ResendVerificationEmail extends Command
     public function handle()
     {
         $supporters = Supporter::where('email_verified_at', null)
-            ->where('created_at', '<', now()->subHours(24))
+            ->where('created_at', '<', now()->subHours(12))
             ->where('verification_email_count', '<', 2)
             ->get();
         foreach ($supporters as $supporter) {
