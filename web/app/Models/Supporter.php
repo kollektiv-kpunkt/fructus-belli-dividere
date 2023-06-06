@@ -63,7 +63,7 @@ class Supporter extends Model
     public static function verify($email, $token)
     {
         $supporter = self::where("email", $email)->first();
-        if (!$supporter || $supporter->email_verified_at !== null) {
+        if (!$supporter) {
             return false;
         }
         if ($supporter && $supporter->email_verification_token == $token) {
