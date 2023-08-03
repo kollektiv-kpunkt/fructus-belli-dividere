@@ -60,7 +60,8 @@ class ExportSupporters extends Command
             foreach ($datafields as $datafield) {
                 $row[] = $supporter->data[$datafield] ?? '';
             }
-            $row[] = $supporter->source;
+	    $row[] = $supporter->source;
+	    $row[] = $supporter->locale;
             fputcsv($file, $row);
         }
         fclose($file);
