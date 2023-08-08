@@ -37,10 +37,10 @@ return [
     ],
     "pressrelease" => [
         "live" => "1",
-        "subtitle" => "Actualité : Communiqué de presse",
-        "title" => "CER-N rejette l'impôt sur les bénéfices de guerre",
-        "content" => "Lors de sa séance du 22 mai, la Commission de l'économie et des redevances a discuté et rejeté l'initiative parlementaire <a class=\"underline italic\" target=\"_blank\" href=\"https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220457\">«Imposer les bénéfices de guerre exceptionnels»</a>. Cette initiative demande que les bénéfices excédentaires liés à la guerre en Ukraine soient soumis à un taux d'imposition plus élevé. Nous avons pris position à ce sujet. <b>Lisez à ce propos notre communiqué de presse.</b>",
-        "link" => "https://kriegsgewinne.ch/media/mm-2023-05-24-fr.pdf",
+        "subtitle" => "Actualité : Communiqué de presse de l'alliance pour un impôt sur les bénéfices de guerre",
+        "title" => "Les négociants en matières premières continuent de profiter de la guerre",
+        "content" => "Les géants suisses des matières premières comme Glencore ou Trafigura réalisent des bénéfices historiques se comptant en milliards suite à la guerre en Ukraine - les derniers chiffres semestriels le soulignent. Avec un impôt sur les bénéfices de guerre, la Suisse pourrait apporter une contribution importante à la répartition équitable de ces bénéfices de guerre.",
+        "link" => "https://mailchi.mp/gssa/benefices-de-guerre-080823",
         "button" => "Lire le communiqué de presse"
     ],
     "share" => [

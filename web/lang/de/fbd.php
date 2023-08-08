@@ -37,10 +37,10 @@ return [
     ],
     "pressrelease" => [
         "live" => "1",
-        "subtitle" => "Aktuell: Medienmitteilung vom 24. Mai",
-        "title" => "WAK-N lehnt Kriegsgewinnsteuer ab",
-        "content" => "Die Kommission für Wirtschaft und Abgaben hat in ihrer Sitzung vom 22. Mai die parlamentarische Initiative <a class=\"underline italic\" target=\"_blank\" href=\"https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20220457\">«Kriegsgewinne mit einer Windfall Profit Tax besteuern»</a> besprochen und abgelehnt. Diese Initiative fordert, dass Übergewinne im Zusammenhang mit dem Ukrainekrieg mit einem höheren Steuersatz belegt werden. Wir haben dazu Stellung genommen. <b>Lesen Sie hierzu unsere Medienmitteilung.</b>",
-        "link" => "https://kriegsgewinne.ch/media/mm-2023-05-24-de.pdf",
+        "subtitle" => "Aktuell: Medienmitteilung der Allianz für eine Kriegsgewinnsteuer",
+        "title" => "Rohstoffhändler profitieren weiter vom Krieg",
+        "content" => "Schweizer Rohstoffriesen wie Glencore oder Trafigura machen in Folge des Ukrainekriegs historische Milliardenprofite –⁠ dies unterstreichen die aktuellen Halbjahreszahlen. Mit einer Kriegsgewinnsteuer könnte die Schweiz einen wichtigen Beitrag dazu leisten, diese Kriegsgewinne gerecht zu verteilen.",
+        "link" => "https://mailchi.mp/gsoa/kriegsgewinne-halbjahreszahlen",
         "button" => "Medienmitteilung lesen"
     ],
     "share" => [
