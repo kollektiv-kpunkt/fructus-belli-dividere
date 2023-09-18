@@ -43,6 +43,19 @@ return [
         "link" => "https://mailchi.mp/gssa/benefices-de-guerre-080823",
         "button" => "Lire le communiqué de presse"
     ],
+    "donation" => [
+        "anchor" => "donner",
+        "title" => "Soutiens-nous en faisant un don !",
+        "lead" => "Nous dépendons des dons pour financer notre travail. Aidez-nous en faisant un don afin que nous puissions continuer à lutter pour une taxation équitable des bénéfices de guerre.",
+        "info" => <<<EOD
+        <b>Nos coordonnées bancaires:</b><br>
+        <b>GSoA Schweiz Postfach 2419,</b><br>
+        3001 Bern<br>
+        IBAN: CH55 0900 0000 4003 7315 5<br>
+        BIC POFICHBEXXX
+        EOD,
+        "button" => "Donner en ligne"
+    ],
     "share" => [
         "title" => "Partage notre lettre ouverte !",
         "sharetitle" => "Taxer les profits de guerre !",

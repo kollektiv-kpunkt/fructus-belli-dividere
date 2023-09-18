@@ -6,3 +6,7 @@
 @import "./faq.scss";
 @import "./examples.scss";
 @import "./signup-form.scss";
+
+html {
+    scroll-behavior: smooth;
+}

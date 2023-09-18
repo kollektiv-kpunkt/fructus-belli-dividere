@@ -43,6 +43,19 @@ return [
         "link" => "https://mailchi.mp/gsoa/kriegsgewinne-halbjahreszahlen",
         "button" => "Medienmitteilung lesen"
     ],
+    "donation" => [
+        "anchor" => "spenden",
+        "title" => "Unterstütze uns mit einer Spende!",
+        "lead" => "Wir sind auf Spenden angewiesen, um unsere Arbeit zu finanzieren. Hilf uns mit einer Spende, damit wir weiterhin für eine gerechte Besteuerung von Kriegsgewinnen kämpfen können.",
+        "info" => <<<EOD
+        <b>Unsere Kontoangaben:</b><br>
+        <b>GSoA Schweiz Postfach 2419,</b><br>
+        3001 Bern<br>
+        IBAN: CH55 0900 0000 4003 7315 5<br>
+        BIC POFICHBEXXX
+        EOD,
+        "button" => "Online spenden"
+    ],
     "share" => [
         "title" => "Teile unseren offenen Brief!",
         "sharetitle" => "Kriegsgewinne besteuern!",

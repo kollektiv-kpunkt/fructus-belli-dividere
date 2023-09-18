@@ -5,6 +5,7 @@ import './elements/questions.js';
 import './elements/progressbar.js';
 import './elements/examples.js';
 import './elements/signupform_responsive.js';
+import './elements/donation_form.js';
 
 import Alpine from 'alpinejs';
 
