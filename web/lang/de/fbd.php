@@ -38,9 +38,9 @@ return [
     "pressrelease" => [
         "live" => "1",
         "subtitle" => "Aktuell: Medienmitteilung der Allianz für eine Kriegsgewinnsteuer",
-        "title" => "Rohstoffhändler profitieren weiter vom Krieg",
-        "content" => "Schweizer Rohstoffriesen wie Glencore oder Trafigura machen in Folge des Ukrainekriegs historische Milliardenprofite –⁠ dies unterstreichen die aktuellen Halbjahreszahlen. Mit einer Kriegsgewinnsteuer könnte die Schweiz einen wichtigen Beitrag dazu leisten, diese Kriegsgewinne gerecht zu verteilen.",
-        "link" => "https://mailchi.mp/gsoa/kriegsgewinne-halbjahreszahlen",
+        "title" => "15000 Menschen fordern eine Kriegsgewinnsteuer",
+        "content" => "Heute hat eine breite Allianz von NGOs, Umweltverbänden und friedenspolitischen Organisationen dem Parlament eine Petition zur Einführung einer Kriegsgewinnsteuer überreicht. Darin fordern rund 15’000 Personen, dass die Schweiz Übergewinne von Rohstoff- und Energiekonzernen gesondert besteuert und die Einnahmen für den Wiederaufbau der Ukraine verwendet. Anlass für die Übergabe der Petition ist die Behandlung der parlamentarischen Initiative Balthasar Glättlis, die ebenfalls eine solche Kriegsgewinnsteuer fordert.",
+        "link" => "https://mailchi.mp/gsoa/einreichung-kriegsgewinne-de",
         "button" => "Medienmitteilung lesen"
     ],
     "donation" => [

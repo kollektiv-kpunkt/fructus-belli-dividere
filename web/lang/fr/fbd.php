@@ -38,9 +38,9 @@ return [
     "pressrelease" => [
         "live" => "1",
         "subtitle" => "Actualité : Communiqué de presse de l'alliance pour un impôt sur les bénéfices de guerre",
-        "title" => "Les négociants en matières premières continuent de profiter de la guerre",
-        "content" => "Les géants suisses des matières premières comme Glencore ou Trafigura réalisent des bénéfices historiques se comptant en milliards suite à la guerre en Ukraine - les derniers chiffres semestriels le soulignent. Avec un impôt sur les bénéfices de guerre, la Suisse pourrait apporter une contribution importante à la répartition équitable de ces bénéfices de guerre.",
-        "link" => "https://mailchi.mp/gssa/benefices-de-guerre-080823",
+        "title" => "15000 personnes demandent un impôt sur les bénéfices de guerre",
+        "content" => "Aujourd'hui, une large alliance d'ONG, d'associations environnementales et d'organisations de politique de paix a remis au Parlement une pétition demandant l'introduction d'un impôt sur les bénéfices de guerre. Environ 15'000 personnes y demandent que la Suisse impose séparément les bénéfices excédentaires des groupes de matières premières et d'énergie et utilise les recettes pour la reconstruction de l'Ukraine. La remise de la pétition est motivée par le traitement de l'initiative parlementaire de Balthasar Glättli, qui demande également un tel impôt sur les bénéfices de guerre.",
+        "link" => "https://mailchi.mp/gssa/action-beneficesdeguerre-fr",
         "button" => "Lire le communiqué de presse"
     ],
     "donation" => [
