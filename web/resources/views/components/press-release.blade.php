@@ -3,4 +3,5 @@
     <h2 class="fbd-section-title">{{__("fbd.pressrelease.title")}}</h2>
     <p class="fbd-section-content mt-4">{!! __("fbd.pressrelease.content") !!}</p>
     <a href="{{__("fbd.pressrelease.link")}}" class="fbd-button block mt-4" target="_blank">{{__("fbd.pressrelease.button")}}</a>
+    <a href="{{__("fbd.pressrelease.link2")}}" class="fbd-button block mt-4" target="_blank">{{__("fbd.pressrelease.button2")}}</a>
 </div>

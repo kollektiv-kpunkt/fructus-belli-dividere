@@ -41,7 +41,9 @@ return [
         "title" => "15000 Menschen fordern eine Kriegsgewinnsteuer",
         "content" => "Heute hat eine breite Allianz von NGOs, Umweltverbänden und friedenspolitischen Organisationen dem Parlament eine Petition zur Einführung einer Kriegsgewinnsteuer überreicht. Darin fordern rund 15’000 Personen, dass die Schweiz Übergewinne von Rohstoff- und Energiekonzernen gesondert besteuert und die Einnahmen für den Wiederaufbau der Ukraine verwendet. Anlass für die Übergabe der Petition ist die Behandlung der parlamentarischen Initiative Balthasar Glättlis, die ebenfalls eine solche Kriegsgewinnsteuer fordert.",
         "link" => "https://mailchi.mp/gsoa/einreichung-kriegsgewinne-de",
-        "button" => "Medienmitteilung lesen"
+        "button" => "Medienmitteilung lesen",
+        "button2" => "Fotos der Einreichung",
+        "link2" => "https://www.flickr.com/photos/193619837@N03/"
     ],
     "donation" => [
         "anchor" => "spenden",
