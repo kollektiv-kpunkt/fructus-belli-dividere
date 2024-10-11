@@ -56,4 +56,8 @@ Route::get("/imprint", function(){
     return view("simple-page", ["title" => __("fbd.pagetitles.imprint"), "content" => file_get_contents(public_path("markdown/imprint." . app()->getLocale() . ".md"))]);
 });
 
+Route::get(__("fbd.landingpage.slug"), function(){
+    return view("landing.new");
+});
+
 require __DIR__.'/auth.php';

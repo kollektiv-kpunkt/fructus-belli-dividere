@@ -250,5 +250,23 @@ return [
     "pagetitles" => [
         "privacy" => "Datenschutz",
         "imprint" => "Impressum"
+    ],
+    "landingpage" => [
+        "slug" => "wir-geben-nicht-auf",
+        "title" => "Wir geben nicht auf!",
+        "content" => [
+            "title" => "Wir geben<br>nicht auf!",
+            "lead" => "Die Kommission für Wirtschaft und Abgaben des Nationalrats hat entschieden, nicht auf die Forderung unserer Petition einzugehen. Doch wir geben nicht auf! Wir werden weiterhin für eine gerechte Besteuerung von Kriegsgewinnen kämpfen. Unterstütze unsere Arbeit mit einer Spende und hilf uns, weiterhin Druck auf das Parlament auszuüben.",
+            "donation" => [
+                "title" => "Ich helfe mit einer Spende!",
+                "items" => [
+                    "2000" => "20 CHF",
+                    "5000" => "50 CHF",
+                    "7000" => "70 CHF",
+                    "10000" => "100 CHF",
+                ],
+                "helper" => "Ich spende",
+            ]
+        ]
     ]
 ];

@@ -1,4 +1,7 @@
 .fbd-page-heroine {
+    position: relative;
+    --ribbon-color: theme("colors.secondary.DEFAULT");
+    background-color: var(--ribbon-color);
 
     &__inner {
         padding-top: calc(var(--navheight) + 2.5rem);
@@ -11,11 +14,6 @@
     &__lead {
         @apply text-lg md:text-xl mt-6;
     }
-
-
-    position: relative;
-    --ribbon-color: theme("colors.secondary.DEFAULT");
-    background-color: var(--ribbon-color);
 
     &__ribbon {
         --insetHeight: 4.5rem;
