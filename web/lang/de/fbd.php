@@ -256,16 +256,16 @@ return [
         "title" => "Wir geben nicht auf!",
         "content" => [
             "title" => "Wir geben<br>nicht auf!",
-            "lead" => "Die Kommission für Wirtschaft und Abgaben des Nationalrats hat entschieden, nicht auf die Forderung unserer Petition einzugehen. Doch wir geben nicht auf! Wir werden weiterhin für eine gerechte Besteuerung von Kriegsgewinnen kämpfen. Unterstütze unsere Arbeit mit einer Spende und hilf uns, weiterhin Druck auf das Parlament auszuüben.",
+            "lead" => "Die Kommission für Wirtschaft und Abgaben geht nicht auf unsere Petition ein und verschliesst die Augen vor den Milliardengewinnen der Rohstoffkonzerne. Doch wir geben nicht auf! Unser Einsatz für eine Kriegsgewinnsteuer geht weiter.",
             "donation" => [
                 "title" => "Ich helfe mit einer Spende!",
-                "items" => [
-                    "2000" => "20 CHF",
-                    "5000" => "50 CHF",
-                    "7000" => "70 CHF",
-                    "10000" => "100 CHF",
-                ],
-                "helper" => "Ich spende",
+                "lead" => "Wir sind auf Spenden angewiesen, um unsere Arbeit zu finanzieren. Helfen Sie mit einer Spende, damit wir weiterhin dafür kämpfen können, dass die Profiteur*innen von Kriegen und Krisen endlich ihre Verantwort wahrnehmen.",
+                "button" => "Ich bin dabei!"
+            ],
+            "paragraphs" => [
+                "Vor einem Jahr haben wir unsere Petition für die Einführung einer Kriegsgewinnsteuer eingereicht. <b>Über 15’000 Personen haben unsere Forderung unterstützt,</b> dass die Schweizer Profiteur*innen des Russischen Angriffskriegs mit einer Übergewinnsteuer ihren Beitrag für den sozialen und ökologischen Wiederaufbau der Ukraine leisten sollen. Sie waren auch dabei – <b>herzlichen Dank dafür!</b>",
+                "Die zuständige Kommission hat sich nun mit unserem Anliegen befasst und beschlossen, nicht auf unsere Petition einzugehen. Auch wenn uns dieser Entscheid nicht überrascht, sind wir enttäuscht. <b>Die Kommission verschliesst damit die Augen vor der Realität.</b>",
+                "Noch immer erzielen Schweizer Firmen mit der Kriegssituation in der Ukraine horrende Gewinne. Egal ob <a href=\"https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/intransparenz-und-inkonsequenz-russlands-krieg-enttarnt-das-geschaeftsmodell-schweiz\" target=\"_blank\">Erdöl</a>, <a href=\"https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/intransparenz-und-inkonsequenz-russlands-krieg-enttarnt-das-geschaeftsmodell-schweiz\" target=\"_blank\">Kohle</a> oder <a href=\"https://www.nzz.ch/wirtschaft/russland-schmuggelt-ukrainisches-getreide-und-ein-schweizer-unternehmen-hilft-dabei-ld.1767240\" target=\"_blank\">Getreide</a>: <b>Schweizer Firmen bereichern sich am Krieg</b>. Auch wenn unsere Petition bei den Verantwortlichen keinen Anklang gefunden hat, kämpfen wir weiterhin für unsere Forderung: <b>Helfen Sie uns dabei?</b>"
             ]
         ]
     ]
